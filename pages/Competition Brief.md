@@ -30,4 +30,34 @@ even digital means - think GenAI - to piece together a snapshot of what
 our nation can be because of what we choose to do today.</p>
 <p>Winning entries may be selected for exhibition at the Singapore Pavilion
 at World Expo 2025 in Osaka. Selected entries may be required to be altered
-to a format required for exhibition purposes. Judges decision will be final.</p>
+to a format required for exhibition purposes. Judge's decision will be
+final.</p>
+<hr>
+<h3><strong>Categories</strong></h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Primary" src="/images/pri.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Primary Schools</div>
+<div class="isomer-card-description">Students 12 years' old and below enrolled in a Primary School</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Open" src="/images/sec.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Open Category</div>
+<div class="isomer-card-description">Every Singaporean &amp; PR. Every age and every walk of life, an individual,
+group or a team from an institution.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
