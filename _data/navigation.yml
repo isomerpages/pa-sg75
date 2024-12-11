@@ -2,6 +2,21 @@ logo: /images/isomer-logo.svg
 links:
   - title: Home
     url: /homepage/
+  - title: About
+    url: /about
+    sublinks:
+      - title: Why SG75
+        url: /whysg75
+      - title: Competition Overview
+        url: /competition-overview
+      - title: Working Committee
+        url: /working-committee
+      - title: Judging Panel - Static
+        url: /static
+      - title: Judging Panel - Dynamic
+        url: /dynamic
+  - title: Competition Brief
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
   - title: Example Folder
