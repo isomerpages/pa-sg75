@@ -303,5 +303,34 @@ than 750 characters during the online submission.</p>
 </table>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Judging Criteria</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/judging_criteria.png">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>FAQ</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Q: I want to take part with some friends, can I do so?</strong>
+<br>A: Yes, definitely! Submissions can be made by up to a group of 6 participants.
+Please select group submission during online submission.</p>
+<p><strong>Q: When is the submission deadline?</strong>
+<br>A: Please submit by 05 August 2024, 17:00Hrs (UTC+8). Entries received
+after this date and time will not be eligible.</p>
+<p><strong>Q: Can I submit multiple entries?</strong>
+<br>A: Yes. However, they should be different in content. Do give different
+titles to each separate entry to avoid confusion.</p>
+<p><strong>Q: I would like to make some changes to my entry and the competition is still open. Can I re-submit?</strong>
+<br>A: Yes. There is a question within the submission form asking "Is this
+a re-submission?". Please select Yes.&nbsp;</p>
+<p><strong>Q: My video submission has some dialogue in a language other than English. Will I be disqualified?</strong>
+<br>A: The primary language for the competition is English. If other languages
+are used, English subtitles are required.</p>
+</div>
+</details>
 </div>
 <p></p>
