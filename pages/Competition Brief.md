@@ -59,5 +59,67 @@ group or a team from an institution.</div>
 </div>
 </div>
 </div>
-<p></p>
+<h3><strong>Important Competition Information</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>General Rules of the Competition</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>By entering into this competition, the participant(s) verifies that the
+work submitted is not plagiarised and does not infringe the copyright and
+intellectual property right of any person or organisation.</p>
+</li>
+<li>
+<p>By entering into this competition, the participant(s) agree that the organisers
+have free usage of the submitted works for the competition's&nbsp;publicity
+purposes and future events.</p>
+</li>
+<li>
+<p>Participants are encouraged to use the Creative Commons License (<a href="https://creativecommons.org/choose/" rel="noopener noreferrer nofollow" target="_blank">https://creativecommons.org/choose/</a>)
+for all work submitted.</p>
+</li>
+<li>
+<p>The judges' decision is final and no correspondence will be entered into.</p>
+</li>
+<li>
+<p>Any dialogue or text shown within the submission that is not in English,
+should have annotations/subtitles in English.</p>
+</li>
+<li>
+<p>Individual and group participants under the age of 16 years old will be
+required to obtain their parent's or guardian's consent to take part in
+the competition. The following details will be required when filling in
+the online submission form:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Consenting Parent's / Guardian's Name</p>
+</li>
+<li>
+<p>Consenting Parent's / Guardian's Contact Number</p>
+</li>
+<li>
+<p>Consenting Parent's / Guardian's Email</p>
+</li>
+<li>
+<p>Consenting Parent's / Guardian's Mailing Address</p>
+</li>
+</ol>
+</li>
+<li>
+<p>By entering into this competition, the participant(s) agree that personal
+data collected will be used by the organising committee and third-parties
+engaged by the organising committee to manage the competition for purposes
+related to the competition, including but not limited to sending email
+communications about submissions, publicity of competition-related events,
+notification of results etc.</p>
+</li>
+<li>
+<p>Terms and Conditions stated above may be subject to changes at the discretion
+of the organising committee.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p></p>
