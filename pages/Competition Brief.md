@@ -343,4 +343,5 @@ are used, English subtitles are required.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p><a href="https://sg75.sg/images/SG75_Competition_Brief_2024_EditionV2.pdf" rel="noopener nofollow" target="_blank">Quick Access to Download Competition Brief</a>
+</p>
