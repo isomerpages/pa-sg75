@@ -1,5 +1,5 @@
 collections:
-  why-sg75:
+  about:
     output: true
     order:
       - Why SG75.md
