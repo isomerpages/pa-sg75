@@ -191,5 +191,59 @@ in a primary school</p>
 </table>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Type of Competition &amp; Submission Instructions</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>STATIC PRESENTATION 1 -&nbsp;WRITTEN ESSAY</strong>
+</p>
+<p><strong>How to submit:<br></strong>- Upload your PDF file directly via
+the <a href="https://sg75.sg/component/breezingforms/view/form?Itemid=263" rel="noopener noreferrer nofollow" target="_blank"><u>online registration form</u></a>
+</p>
+<p><strong>What can I submit:&nbsp;<br></strong>- The essay can be supported
+by pictures.
+<br>- Length of essay is limited to 2,500 words.</p>
+<p><strong>What are some guidelines I need to take note of:<br></strong>-
+Accepted file format is Adobe PDF
+<br>- Total maximum file size is 1GB.
+<br>- You are required to submit a short explanation about your work in less
+than 750 characters during the online submission.</p>
+<hr>
+<p><strong>STATIC PRESENTATION 2&nbsp;- ILLUSTRATION, GRAPHIC DESIGN &amp; PHOTO SUBMISSION</strong>
+</p>
+<p><strong>How to submit:<br></strong>- Upload your file to wetransfer (
+<a href="https://wetransfer.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://wetransfer.com/</u>
+</a>) and a download link will be generated.&nbsp;
+<br>- Please submit the download link via the <a href="https://sg75.sg/component/breezingforms/view/form?Itemid=263" rel="noopener noreferrer nofollow" target="_blank"><u>online registration form</u></a>.
+<br>- Click&nbsp;<a href="https://sg75.sg/images/How_To_Get_WeTransfer_Link.pdf" rel="noopener" target="_blank"><u>here</u></a>&nbsp;for
+step-by-step guide on how to get a wetransfer download link.</p>
+<p><strong>What can I submit:</strong>
+<br>- A single artwork or up to a series of 5 related images in JPEG format</p>
+<p><strong>What are some guidelines I need to take note:<br></strong>- Accepted
+file format is JPEG
+<br>- Maximum resolution 300dpi
+<br>- Total maximum file size is 1GB.
+<br>- You are required to submit a short explanation about your work in less
+than 750 characters during the online submission.</p>
+<hr>
+<p><strong>DYNAMIC PRESENTATION -&nbsp;ANIMATION &amp; VIDEO SUBMISSION</strong>
+</p>
+<p><strong>How to submit:<br></strong>- Upload your file to wetransfer (
+<a href="https://wetransfer.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://wetransfer.com/</u>
+</a>) and a download link will be generated.&nbsp;
+<br>- Please submit the download link via the <a href="https://sg75.sg/component/breezingforms/view/form?Itemid=263" rel="noopener noreferrer nofollow" target="_blank"><u>online registration form</u></a>.
+<br>- Click&nbsp;<a href="https://sg75.sg/images/How_To_Get_WeTransfer_Link.pdf" rel="noopener" target="_blank"><u>here</u></a>&nbsp;for
+step-by-step guide on how to get a wetransfer download link.</p>
+<p><strong>What can I submit:</strong>
+<br>- Video files should be in HD (1920 x 1080) and .mp4 format, no longer
+than 3 minutes in length.</p>
+<p><strong>What are some guidelines I need to take note:<br></strong>- Any
+dialogue or text shown within the animation/video that is not in English,
+should have subtitles in English.&nbsp;
+<br>- Total maximum file size is 1GB. There must be no mention of group name
+or logo in the submission.
+<br>- You are required to submit a short explanation about your work in less
+than 750 characters during the online submission.</p>
+</div>
+</details>
 </div>
 <p></p>
