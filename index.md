@@ -13,11 +13,11 @@ sections:
       button: Learn more about this year's theme.
       url: /learn-more/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Unfamiliar with SG75?
+          description: Competition over the years
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: This year's theme
+          description: 2024 Competition Brief
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
