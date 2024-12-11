@@ -60,7 +60,7 @@ group or a team from an institution.</div>
 </div>
 </div>
 <h3><strong>Important Competition Information</strong></h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>General Rules of the Competition</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -119,6 +119,43 @@ notification of results etc.</p>
 of the organising committee.</p>
 </li>
 </ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Important Competition Dates</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Closing Date of Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05 Aug 2024 (Monday), 17:00HRS (UTC+8)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Notification of Results</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 September 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Awards Ceremony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 November 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
