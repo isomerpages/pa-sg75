@@ -158,5 +158,38 @@ of the organising committee.</p>
 </table>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Competition Categories</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Submissions can be done as an individual participant or as a group of
+up to 6 persons.</p>
+<p>Participants can take part in the competition via these 2 categories:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary School</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Open Category</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For students aged 12 years and below enrolled in a primary school</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Singaporeans and Singapore Permanent Residents currently not enrolled
+in a primary school</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
 </div>
 <p></p>
