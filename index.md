@@ -10,8 +10,8 @@ sections:
       title: SG75 Singapore Our Home
       subtitle: Ahoy, captain! Sail into the Future of Singapore with SG75 2024!
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: Learn more about this year's theme.
+      url: /learn-more/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
