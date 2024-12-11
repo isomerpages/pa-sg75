@@ -91,7 +91,7 @@ should have annotations/subtitles in English.</p>
 required to obtain their parent's or guardian's consent to take part in
 the competition. The following details will be required when filling in
 the online submission form:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Consenting Parent's / Guardian's Name</p>
 </li>
@@ -104,7 +104,7 @@ the online submission form:</p>
 <li>
 <p>Consenting Parent's / Guardian's Mailing Address</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p>By entering into this competition, the participant(s) agree that personal
