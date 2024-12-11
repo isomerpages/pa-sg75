@@ -2,8 +2,8 @@ collections:
   about:
     output: true
     order:
-      - Dynamic Presentation Judging Panel.md
       - Why SG75.md
       - Competition Overview.md
       - Working Committee.md
+      - Dynamic Presentation Judging Panel.md
       - Static Presentation Judging Panel.md
