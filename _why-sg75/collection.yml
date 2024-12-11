@@ -1,5 +1,5 @@
 collections:
-  competition-themes:
+  why-sg75:
     output: true
     order:
       - folder-page.md
