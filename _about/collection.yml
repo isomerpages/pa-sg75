@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Judging Panel Static Presentation.md
       - Why SG75.md
       - Competition Overview.md
       - Working Committee.md
