@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  competition-themes:
     output: true
     order:
       - folder-page.md
