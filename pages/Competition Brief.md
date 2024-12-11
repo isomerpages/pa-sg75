@@ -245,5 +245,63 @@ or logo in the submission.
 than 750 characters during the online submission.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Prizes-in-Kind</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>More information will be furnished on the exact prizes at a later date.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>First</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Second</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Third</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$200</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Open</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$200</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
 </div>
 <p></p>
