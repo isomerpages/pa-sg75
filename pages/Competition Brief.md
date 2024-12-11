@@ -304,12 +304,22 @@ than 750 characters during the online submission.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Judging Criteria</summary>
+<summary>SG75 Competition Judging Criteria</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/judging_criteria.png">
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>50%: Aspiration Value of the Presentation</p>
+</li>
+<li>
+<p>20%: Online Popularity Vote</p>
+</li>
+<li>
+<p>15%: Artistic &amp; Literary Quality of the Presentation</p>
+</li>
+<li>
+<p>15%: Practicality and Probability of the Proposed Vision</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
