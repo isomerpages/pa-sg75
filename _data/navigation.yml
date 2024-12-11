@@ -2,8 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: Home
     url: /homepage/
-  - title: Why Sg75
-    collection: why-sg75
+  - title: About
+    collection: about
   - title: About
     url: /about
     sublinks:
