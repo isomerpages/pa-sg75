@@ -4,22 +4,13 @@ links:
     url: /homepage/
   - title: About
     collection: about
-  - title: About
-    url: /about
-    sublinks:
-      - title: Why SG75
-        url: /whysg75
-      - title: Competition Overview
-        url: /competition-overview
-      - title: Working Committee
-        url: /working-committee
-      - title: Judging Panel - Static
-        url: /static
-      - title: Judging Panel - Dynamic
-        url: /dynamic
   - title: Competition Brief
     url: /permalink
   - title: Submission
+    url: /permalink
+  - title: Archive
+    collection: about
+  - title: The Singapore Story
     url: /permalink
   - title: Contact Us
     url: /contact-us/
