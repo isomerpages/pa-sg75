@@ -696,4 +696,124 @@ plot</p>
 </div>
 </details>
 </div>
+<h4><strong>2004 – Present Day: Singapore, Endearing Home</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>18 Apr 2005</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Government approves the plan to legalise casino gambling and builds two
+Integrated Resorts</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>6 May 2006</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>PAP wins 2006 GE</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>9 Jan 2008</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Singapore Changi Airport opens 3rd passenger terminal</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Sep 2008</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Singapore slips into recession due to Global Financial Crisis</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>7 May 2011</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>PAP wins 2011 GE but loses Aljunied GRC. First time an opposition party
+captured a GRC</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1 Sep 2011</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Dr Tan Keng Yam Tony sworn in as 7th President of Singapore</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>24 Jun 2013</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Haze in Singapore reaches 401 PSI, worst in Singapore History</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1 Aug 2014</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Launch of Pioneer Generation package</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>23 Mar 2015</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Lee Kuan Yew passes away. Singapore enters a one-week mourning period</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>9 Aug 2015</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Singapore’s Golden Jubilee</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Aug 2016</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Joseph Schooling is Singapore’s first Olympic Champion</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>22 Aug 2016</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>S R Nathan passes away. Singapore enters a one-week mourning period</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>8 Aug 2017</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Future Economy Council holds first meeting with Mr Heng Swee Keat as chair</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>20 Aug 2017</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Launch of Smart Nation projects</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>13 - 14 Sep 2017</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Halimah Yacob elected as 8th President and 1st female President of Singapore</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>12 Jun 2018</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Kim – Trump Summit</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>19 Aug 2018</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Announcement of Merdeka Generation package</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>23 Nov 2018</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The 4th Generation of leaders emerges</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>20 Dec 2018</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>United Nations passes resolution for new treaty on mediation named after
+Singapore</p>
+</div>
+</details>
+</div>
 <p></p>
