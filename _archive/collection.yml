@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Winners/.keep
       - Award Ceremony/Photos.md
       - Award Ceremony/2020 Award Ceremony Poster.md
       - Award Ceremony/.keep
