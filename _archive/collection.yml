@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Competition Themes/.keep
-      - Competition Themes/2020 Edition.md
       - Competition Themes/2018 Edition.md
       - Competition Themes/2019 Edition.md
+      - Competition Themes/2020 Edition.md
