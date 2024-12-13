@@ -44,7 +44,7 @@ third_nav_title: Winners
 <p>Arissa Binte Kamaruzaman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/static1/23S1-IND-1097.pdf" rel="noopener nofollow" target="_blank">LOVE EACH OTHER FOR; NOTIN SPITE </a>
+<p><a href="https://www.sg75.sg/entries/2023/static1/23S1-IND-1097.pdf" rel="noopener nofollow" target="_blank">LOVE EACH OTHER FOR; NOTIN SPITE</a>
 </p>
 </td>
 </tr>
@@ -288,35 +288,232 @@ third_nav_title: Winners
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Results</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Entry Title</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>First</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Su Yuan Angel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5001.mp4" rel="noopener nofollow" target="_blank">Please don't judge a book by its cover</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Second</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Freyja Aditi Nagarajan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5004.mp4" rel="noopener nofollow" target="_blank">Diverse Family Trees - One Identity</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1><strong>Dynamic Primary - Group Winners</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Results</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Entry Title</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SQPS Artists</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/658361562897206/" rel="noopener nofollow" target="_blank">Many FACES, Many RACES, ONE SG</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Group 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/985788009407463/" rel="noopener nofollow" target="_blank">Different Yet One</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Third</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GLZJ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/859582455831983/" rel="noopener nofollow" target="_blank">GLZJ</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1><strong>Dynamic Open - Individual Winners</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Results</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Entry Title</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHONG KAR ANN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5002.mp4" rel="noopener nofollow" target="_blank">One Voice, One Nation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamad Azrin Bin Mohd Hanapiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5003.mp4" rel="noopener nofollow" target="_blank">Our Home</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Third</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khan Mohamed Mohamed Dhasil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5005.mp4" rel="noopener nofollow" target="_blank">Our Singaporean Identity - Shared Spaces &amp; Experiences</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1><strong>Dynamic Open - Group Winners</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Results</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Entry Title</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KopiUp!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/258947690405494/" rel="noopener nofollow" target="_blank">Rice To Meat You</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Colours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/6600628949986688/" rel="noopener nofollow" target="_blank">Our Masterpiece</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Community Heroes&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/636915401871590/" rel="noopener nofollow" target="_blank">Community Centres</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Third</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team WET</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/648405953910671/" rel="noopener nofollow" target="_blank">Wet Markets in Singapore</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Third</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5W1H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/874369887736111/" rel="noopener nofollow" target="_blank">Singapore, Our Past, Present, Future</a>
+</p>
 </td>
 </tr>
 </tbody>
