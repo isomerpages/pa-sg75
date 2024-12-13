@@ -2,9 +2,9 @@ collections:
   archive:
     output: true
     order:
-      - Winners and Award Ceremony/Photos.md
-      - Winners and Award Ceremony/2020 Award Ceremony Poster.md
-      - Winners and Award Ceremony/.keep
+      - Award Ceremony/Photos.md
+      - Award Ceremony/2020 Award Ceremony Poster.md
+      - Award Ceremony/.keep
       - Related Events/2024 Events.md
       - Related Events/2021 Events.md
       - Related Events/2019 Events.md
