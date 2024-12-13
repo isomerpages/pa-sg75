@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Winners/2022 Winners.md
       - Winners/2021 Winners.md
       - Winners/2020 Winners.md
       - Winners/2019 Winners.md
