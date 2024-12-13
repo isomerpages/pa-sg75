@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Related Events/.keep
       - Competition Themes/.keep
       - Competition Themes/2018 Edition.md
       - Competition Themes/2019 Edition.md
