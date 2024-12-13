@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: Unfamiliar with SG75?
           description: Competition over the years
-          url: https://google.com
+          url: /competition-overview/
         - title: This year's theme
           description: 2024 Competition Brief
           url: /competition-brief/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Showcase
+          description: 2024 Winners
+          url: /2024-winners/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
