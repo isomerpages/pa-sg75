@@ -11,7 +11,7 @@ sections:
       subtitle: Ahoy, captain! Sail into the Future of Singapore with SG75 2024!
       background: /images/hero-banner.png
       button: Learn more about this year's theme.
-      url: /learn-more/
+      url: /about/
       key_highlights:
         - title: Unfamiliar with SG75?
           description: Competition over the years
