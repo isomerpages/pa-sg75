@@ -298,4 +298,166 @@ third_nav_title: Winners
 </tr>
 </tbody>
 </table>
+<h1><strong>Static 2 Individual Winners</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Results</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Entry Title</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurul Atikah Binte Mohamed Soffian&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/photos/a.213897892627435/213897942627430/?type=3" rel="noopener nofollow" target="_blank">A Future of Inclusiveness with Technology</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ashley Seah En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/photos/a.213900482627176/213900515960506/?type=3" rel="noopener nofollow" target="_blank">Flow with the River</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Third</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reuben Mah&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/photos/a.213899652627259/213899695960588/?type=3" rel="noopener nofollow" target="_blank">Singapore, Our New Underground Home</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Recognition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Luvlyn Lim Enqi&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/photos/a.213899369293954/213899389293952/?type=3" rel="noopener nofollow" target="_blank">Our Singapore Competition SG 75 (17)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Recognition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soh Hwee Yi&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/photos/a.213896892627535/213896929294198/?type=3" rel="noopener nofollow" target="_blank">Next</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Recognition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chaemin Lee&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/photos/a.213898892627335/213898915960666/?type=3" rel="noopener nofollow" target="_blank">Our Singapore Competition SG 75 (10)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Recognition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jose Chow Yi&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/media/set/?set=a.213900025960555&amp;type=3" rel="noopener nofollow" target="_blank">Our Future With The Aid Of Technology</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1><strong>Dynamic Winners</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Results</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Entry Title</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Towards the Future_Gongshang Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/213902065960351/" rel="noopener nofollow" target="_blank">Towards the Future for Singapore</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;FLM SG75</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/213904592626765/" rel="noopener nofollow" target="_blank">Future Wish (Open)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Third</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ITE College West Student Council</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/213903082626916/" rel="noopener nofollow" target="_blank">SG75 - Our Vision</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
