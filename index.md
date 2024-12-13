@@ -20,7 +20,7 @@ sections:
           description: 2024 Competition Brief
           url: /competition-brief/
         - title: Showcase
-          description: 2024 Winners
+          description: 2023 Winners
           url: /2023-winners/
   - infobar:
       title: Infobar title
