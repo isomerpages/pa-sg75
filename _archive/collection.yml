@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - Competition Themes/2018 Edition.md
       - Competition Themes/.keep
