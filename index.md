@@ -27,5 +27,5 @@ sections:
       subtitle: 200 Years of
       description: The Singapore Story in a Chronological Timeline
       button: See the timeline
-      url: /faq/
+      url: /the-singapore-story/
 ---
