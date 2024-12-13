@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Winners and Award Ceremony/.keep
       - Related Events/2024 Events.md
       - Related Events/2021 Events.md
       - Related Events/2019 Events.md
