@@ -576,4 +576,60 @@ third_nav_title: Winners
 </tbody>
 </table>
 <h1><strong>Dynamic Open - Group Winners</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Results</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Entry Title</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Apple</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/1467141783757050/" rel="noopener nofollow" target="_blank">Our Singapore School Canteen</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NYL³</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/392781592918382/" rel="noopener nofollow" target="_blank">Diverse us, inclusive home</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Third</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team CN-LiS-W</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/oursg75/videos/1201172664006163/" rel="noopener nofollow" target="_blank">Putting aside our differences</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
