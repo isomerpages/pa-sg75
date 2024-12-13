@@ -23,9 +23,9 @@ sections:
           description: 2023 Winners
           url: /2023-winners/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Nation Building
+      subtitle: 200 Years of
+      description: The Singapore Story in a Chronological Timeline
+      button: See the timeline
       url: /faq/
 ---
