@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Winners/2019 Winners.md
       - Winners/2018 Winners.md
       - Winners/.keep
       - Award Ceremony/Photos.md
