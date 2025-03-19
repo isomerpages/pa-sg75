@@ -1,5 +1,5 @@
 title: SG75 Singapore Our Home
-url: https://sg75.pa.sg
+url: https://sg75.pa.gov.sg
 favicon: /images/PA_logo.png
 colors:
   primary-color: "#ef0f0f"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.dr1fr4z06db4p.amplifyapp.com
 prod: https://master.dcb31h93z5wf2.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/PA_logo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
