@@ -2,13 +2,13 @@ title: SG75 Singapore Our Home
 url: https://sg75.pa.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#ef0f0f"
+  secondary-color: "#d0021b"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#c61010"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#ef0f0f"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
