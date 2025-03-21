@@ -4,7 +4,7 @@ title: SG75 Singapore Our Home
 description: An Isomer site of the Singapore Government
 image: /images/PA_logo.png
 permalink: /
-notification: Shortlisted entries for 2024 competition is out!
+notification: ""
 sections:
   - hero:
       title: SG75 Singapore Our Home
