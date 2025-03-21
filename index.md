@@ -8,7 +8,8 @@ notification: Shortlisted entries for 2024 competition is out!
 sections:
   - hero:
       title: SG75 Singapore Our Home
-      subtitle: Ahoy, captain! Sail into the Future of Singapore with SG75 2024!
+      subtitle: Building the Future of Singapore - Inspiring through the built
+        environment
       background: /images/sailing_into_future.jpg
       button: Learn more about this year's theme.
       url: /competition-brief/
