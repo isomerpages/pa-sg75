@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: SG75 Singapore Our Home
-      background: /images/sailing_into_future.jpg
+      background: /images/group_pic_2.jpg
       button: Learn more about this year's theme.
       url: /competition-brief-2025/
       key_highlights:
