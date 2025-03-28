@@ -21,6 +21,9 @@ sections:
         - title: Showcase
           description: 2023 Winners
           url: /2023-winners/
+        - title: Contact Us
+          description: Getting in touch
+          url: /contact-us/
   - infobar:
       title: Nation Building
       subtitle: 200 Years of
