@@ -10,14 +10,14 @@ sections:
       title: SG75 Singapore Our Home
       background: /images/sailing_into_future.jpg
       button: Learn more about this year's theme.
-      url: /competition-brief/
+      url: /competition-brief-2025/
       key_highlights:
         - title: Unfamiliar with SG75?
           description: Competition over the years
           url: /competition-overview/
         - title: This year's theme
-          description: 2024 Competition Brief
-          url: /competition-brief/
+          description: 2025 Competition Brief
+          url: /competition-brief-2025/
         - title: Showcase
           description: 2023 Winners
           url: /2023-winners/
