@@ -24,6 +24,7 @@ sections:
         - title: Contact Us
           description: Getting in touch
           url: /contact-us/
+      variant: center
   - infobar:
       title: Nation Building
       subtitle: 200 Years of
