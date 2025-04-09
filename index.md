@@ -2,7 +2,7 @@
 layout: homepage
 title: SG75 Singapore Our Home
 description: An Isomer site of the Singapore Government
-image: /images/PA_logo.png
+image: /images/SG75_Website_crop.png
 permalink: /
 notification: ""
 sections:
