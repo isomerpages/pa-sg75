@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-# **Government of Singapore Privacy Statement**
+# **Government of Singapore Privacy Statement on te Use of Isomer Pages Website**
 
 1.  This is a Government Agency digital service. We adopt the same principles relating to your privacy as other Government of Singapore digital services.  
     
