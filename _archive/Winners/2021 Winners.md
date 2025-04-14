@@ -32,8 +32,7 @@ third_nav_title: Winners
 <p>Irvin Tan Rui Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2021/static-1-primary/21S1-IND-1004.pdf?fbclid=IwAR1w9XKmWaLWvC9bfWDHnfRElFyJoSpLWJtH7iDPu9CuNaI4QFfcgOOfb5g" rel="noopener nofollow" target="_blank">A Day in a Future Pandemic (2040)</a>
-</p>
+<p>A Day in a Future Pandemic (2040)</p>
 </td>
 </tr>
 <tr>
@@ -44,8 +43,7 @@ third_nav_title: Winners
 <p>Rohan Thyagarajan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2021/static-1-primary/21S1-IND-1009.pdf?fbclid=IwAR3utqBV2gVxkNsxOC2oKd8eyVEPD7RSGE-FV5uD_cZvo6WQNJ5YWf29ziE" rel="noopener nofollow" target="_blank">Sustainability: Resilience and Inclusiveness in Fighting COVID-19</a>
-</p>
+<p>Sustainability: Resilience and Inclusiveness in Fighting COVID-19</p>
 </td>
 </tr>
 <tr>
@@ -56,8 +54,7 @@ third_nav_title: Winners
 <p>Aadarsh Rao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2021/static-1-primary/21S1-IND-1034.pdf?fbclid=IwAR0xFB4frI4DujyqfOBpJ3Y1OdG1JOQ7dpAaQdRhTre-SMgTn-G3z-_mMNI" rel="noopener nofollow" target="_blank">My Experience with the Pandemic and how to adapt future pandemic</a>
-</p>
+<p>My Experience with the Pandemic and how to adapt future pandemic</p>
 </td>
 </tr>
 </tbody>
@@ -89,8 +86,7 @@ third_nav_title: Winners
 <p>YTPS_P4_Daksha &amp; Stephy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2021/static-1-primary/21S1-GRP-2009.pdf?fbclid=IwAR3zCBkb7vTYgkWqzHUCvdVZOE80Ri7wEYi-k-6AH9B2n8vScKK94nvcUHc" rel="noopener nofollow" target="_blank">SG2075</a>
-</p>
+<p>SG2075</p>
 </td>
 </tr>
 </tbody>
@@ -122,8 +118,7 @@ third_nav_title: Winners
 <p>Koon Wei Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2021/static-1-open/21S1-IND-1029.pdf?fbclid=IwAR0JnkBgDl1xv4ioQUYYPgDWDc84EEJOQVORsunjDCqz1vOh1h-NLb90WBg" rel="noopener nofollow" target="_blank">KPIs in a VUCA World</a>
-</p>
+<p>KPIs in a VUCA World</p>
 </td>
 </tr>
 <tr>
@@ -134,8 +129,7 @@ third_nav_title: Winners
 <p>Aakash Ramakrishna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2021/static-1-open/21S1-IND-1032.pdf?fbclid=IwAR1X8JBAjmAX3E57eBDb5-jJiVmeOW032sfPymfGcRQ4QR9Xhont-s0_6IM" rel="noopener nofollow" target="_blank">SG75 - My Take on Pandemic</a>
-</p>
+<p>SG75 - My Take on Pandemic</p>
 </td>
 </tr>
 <tr>
@@ -146,8 +140,7 @@ third_nav_title: Winners
 <p>Donavan Quek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2021/static-1-open/21S1-IND-1028.pdf?fbclid=IwAR1D3vCjLB5E-jG2RkofFwdsX7nwRCp0oSMU8B6t5iylT6Puc1XajgqJxcw" rel="noopener nofollow" target="_blank">Moving forward as one Singapore</a>
-</p>
+<p>Moving forward as one Singapore</p>
 </td>
 </tr>
 <tr>
@@ -158,8 +151,7 @@ third_nav_title: Winners
 <p>Ng Yi Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2021/static-1-open/21S1-IND-1033.pdf?fbclid=IwAR3ygSPlMFjdvNeGDoSBr5VqYSKookjk6epDcuHtaaVCVKnYy8UH0C9SASo" rel="noopener nofollow" target="_blank">Majulah Singapura, Let's Beat It!</a>
-</p>
+<p>Majulah Singapura, Let's Beat It!</p>
 </td>
 </tr>
 </tbody>
@@ -191,8 +183,7 @@ third_nav_title: Winners
 <p>WD JET</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2021/static-1-open/21S1-GRP-2004.pdf" rel="noopener nofollow" target="_blank">A Tale of Two Pandemics</a>
-</p>
+<p>A Tale of Two Pandemics</p>
 </td>
 </tr>
 <tr>
@@ -203,8 +194,7 @@ third_nav_title: Winners
 <p>Team LKYS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2021/static-1-open/21S1-GRP-2005.pdf" rel="noopener nofollow" target="_blank">SG75: The Resilient Red Dot</a>
-</p>
+<p>SG75: The Resilient Red Dot</p>
 </td>
 </tr>
 <tr>
@@ -215,8 +205,7 @@ third_nav_title: Winners
 <p>Team LKYS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2021/static-1-open/21S1-GRP-2007.pdf" rel="noopener nofollow" target="_blank">The Pandemic Action Plan</a>
-</p>
+<p>The Pandemic Action Plan</p>
 </td>
 </tr>
 </tbody>
@@ -248,8 +237,7 @@ third_nav_title: Winners
 <p>Asher Ong Yule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830960504254501/830959487587936/?type=3&amp;theater" rel="noopener nofollow" target="_blank">CONQUERING COVID-19 AS ONE</a>
-</p>
+<p>CONQUERING COVID-19 AS ONE</p>
 </td>
 </tr>
 <tr>
@@ -260,8 +248,7 @@ third_nav_title: Winners
 <p>Evelyn Chai Yi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830960504254501/830959317587953/?type=3&amp;theater" rel="noopener nofollow" target="_blank">(NO TITLE)</a>
-</p>
+<p>(No title)</p>
 </td>
 </tr>
 <tr>
@@ -272,8 +259,7 @@ third_nav_title: Winners
 <p>Jasmine Zhang Mingbo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830960504254501/830959334254618/?type=3&amp;theater" rel="noopener nofollow" target="_blank">(NO TITLE)</a>
-</p>
+<p>(No title)</p>
 </td>
 </tr>
 </tbody>
@@ -305,8 +291,7 @@ third_nav_title: Winners
 <p>CCSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830960504254501/830959947587890/?type=3&amp;theater" rel="noopener nofollow" target="_blank">We Can Do This Together</a>
-</p>
+<p>We Can Do This Together</p>
 </td>
 </tr>
 <tr>
@@ -317,8 +302,7 @@ third_nav_title: Winners
 <p>DNCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830960504254501/830959834254568/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Defeat The Virus</a>
-</p>
+<p>Defeat The Virus</p>
 </td>
 </tr>
 <tr>
@@ -329,8 +313,7 @@ third_nav_title: Winners
 <p>ODDD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830960504254501/830959840921234/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Falling Earth</a>
-</p>
+<p>Falling Earth</p>
 </td>
 </tr>
 </tbody>
@@ -362,8 +345,7 @@ third_nav_title: Winners
 <p>Tang Jie Ren Hugo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830984157585469/830982264252325/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Defence Against Covid19</a>
-</p>
+<p>Defence Against Covid19</p>
 </td>
 </tr>
 <tr>
@@ -374,8 +356,7 @@ third_nav_title: Winners
 <p>Disa Leong Hui Shi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830984157585469/830982194252332/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Covid Wild Imagination</a>
-</p>
+<p>Covid Wild Imagination</p>
 </td>
 </tr>
 <tr>
@@ -386,8 +367,7 @@ third_nav_title: Winners
 <p>Khadijah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830984157585469/830982234252328/?type=3&amp;theater" rel="noopener nofollow" target="_blank">SG75</a>
-</p>
+<p>SG75</p>
 </td>
 </tr>
 </tbody>
@@ -419,8 +399,7 @@ third_nav_title: Winners
 <p>Three Musketeers Against COVID</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830984157585469/830983404252211/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Rise by Lifting Others</a>
-</p>
+<p>Rise by Lifting Others</p>
 </td>
 </tr>
 <tr>
@@ -431,8 +410,7 @@ third_nav_title: Winners
 <p>NYGH ICC media arts group 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830984157585469/830983310918887/?type=3&amp;theater" rel="noopener nofollow" target="_blank">All as one</a>
-</p>
+<p>All as one</p>
 </td>
 </tr>
 <tr>
@@ -443,8 +421,7 @@ third_nav_title: Winners
 <p>Team 360°</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.830984157585469/830983467585538/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Connect Community</a>
-</p>
+<p>Connect Community</p>
 </td>
 </tr>
 </tbody>
