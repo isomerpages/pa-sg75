@@ -101,7 +101,7 @@ third_nav_title: Winners
 <p>Evelyn Chai Yi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo.php?fbid=304824322228456&amp;set=a.304824978895057&amp;type=3" rel="noopener nofollow" target="_blank">One Singapore with many faces and many races</a>
+<p><a href="/files/Evelyn.pdf" rel="noopener nofollow" target="_blank">One Singapore with many faces and many races</a>
 </p>
 </td>
 </tr>
@@ -113,7 +113,7 @@ third_nav_title: Winners
 <p>Qiao Manni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo.php?fbid=304824532228435&amp;set=a.304824978895057&amp;type=3" rel="noopener nofollow" target="_blank">Our home, Our land, Our family</a>
+<p><a href="/files/Qiao_Manni.pdf" rel="noopener nofollow" target="_blank">Our home, Our land, Our family</a>
 </p>
 </td>
 </tr>
@@ -125,7 +125,7 @@ third_nav_title: Winners
 <p>Jasmine Zhang Mingbo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo.php?fbid=304824455561776&amp;set=a.304824978895057&amp;type=3" rel="noopener nofollow" target="_blank">One People One Nation One Singapore</a>
+<p><a href="/files/Jasmine_Zhang_Mingbo.pdf" rel="noopener nofollow" target="_blank">One People One Nation One Singapore</a>
 </p>
 </td>
 </tr>
@@ -158,7 +158,7 @@ third_nav_title: Winners
 <p>SQPS UNITE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/static2/23S2-GRP-4047.pdf" rel="noopener nofollow" target="_blank">UNITE STRONG SINGAPORE</a>
+<p><a href="/files/SQPS_UNITE.pdf" rel="noopener nofollow" target="_blank">UNITE STRONG SINGAPORE</a>
 </p>
 </td>
 </tr>
@@ -191,7 +191,7 @@ third_nav_title: Winners
 <p>Loricia Yap Yu Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo.php?fbid=304859458891609&amp;set=a.304864808891074&amp;type=3" rel="noopener nofollow" target="_blank">Swimming With a Merlion</a>
+<p><a href="/files/Loricia_Yap_Yu_Xin.pdf" rel="noopener nofollow" target="_blank">Swimming With a Merlion</a>
 </p>
 </td>
 </tr>
@@ -203,7 +203,7 @@ third_nav_title: Winners
 <p>Han Yu Che</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo.php?fbid=304863495557872&amp;set=a.304864808891074&amp;type=3" rel="noopener nofollow" target="_blank">This is my Home, Truly</a>
+<p><a href="/files/Han_Yu_Che.pdf" rel="noopener nofollow" target="_blank">This is my Home, Truly</a>
 </p>
 </td>
 </tr>
@@ -215,7 +215,7 @@ third_nav_title: Winners
 <p>Trixia Pearl Del Rio De Vera</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo.php?fbid=304863142224574&amp;set=a.304864808891074&amp;type=3" rel="noopener nofollow" target="_blank">A Harmonious Symphony</a>
+<p><a href="/files/Trixia.pdf" rel="noopener nofollow" target="_blank">A Harmonious Symphony</a>
 </p>
 </td>
 </tr>
@@ -248,7 +248,7 @@ third_nav_title: Winners
 <p>Group MERLION</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo.php?fbid=304864525557769&amp;set=a.304864808891074&amp;type=3" rel="noopener nofollow" target="_blank">Colours of Unity</a>
+<p><a href="/files/Group_Merlion.pdf" rel="noopener nofollow" target="_blank">Colours of Unity</a>
 </p>
 </td>
 </tr>
@@ -260,7 +260,7 @@ third_nav_title: Winners
 <p>Vegetables</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo.php?fbid=304864662224422&amp;set=a.304864808891074&amp;type=3" rel="noopener nofollow" target="_blank">Garden Salad City</a>
+<p><a href="/files/Vegetables.pdf" rel="noopener nofollow" target="_blank">Garden Salad City</a>
 </p>
 </td>
 </tr>
@@ -272,7 +272,7 @@ third_nav_title: Winners
 <p>NYGH group 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo.php?fbid=304864745557747&amp;set=a.304864808891074&amp;type=3" rel="noopener nofollow" target="_blank">Our Void Deck</a>
+<p><a href="/files/NYGH_group_8.pdf" rel="noopener nofollow" target="_blank">Our Void Deck</a>
 </p>
 </td>
 </tr>
