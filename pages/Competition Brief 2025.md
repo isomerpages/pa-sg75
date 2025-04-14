@@ -305,8 +305,7 @@ than 750 characters during the online submission.</p>
 <br>A: Yes, definitely! Submissions can be made by up to a group of 6 participants.
 Please select group submission during online submission.</p>
 <p><strong>Q: When is the submission deadline?</strong>
-<br>A: Please submit by 05 August 2024, 17:00Hrs (UTC+8). Entries received
-after this date and time will not be eligible.</p>
+<br>A: To be announced</p>
 <p><strong>Q: Can I submit multiple entries?</strong>
 <br>A: Yes. However, they should be different in content. Do give different
 titles to each separate entry to avoid confusion.</p>
