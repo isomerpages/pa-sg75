@@ -9,9 +9,13 @@ third_nav_title: Related Events
 <h4><strong>YOUth are Invited!</strong></h4>
 <h4><strong>Theme: Sailing into our Future - 2024 Singapore Edition</strong></h4>
 <p><strong><br>Date:</strong>
-<br>Saturday, 29 June 2024<strong><br>Time:</strong>
+<br>Saturday, 29 June 2024<strong><br></strong>
+</p>
+<p><strong>Time:</strong>
 <br>10am - 3.30pm
-<br><em>(Registration will begin at 9.30am)</em><strong><br>Venue:</strong>
+<br><em>(Registration will begin at 9.30am)</em><strong><br></strong>
+</p>
+<p><strong>Venue:</strong>
 <br>NUS Residential College 4
 <br>6 College Avenue East, Singapore 138614<strong><br><br>Programme:<br></strong>-
 LEGO Serious Play
