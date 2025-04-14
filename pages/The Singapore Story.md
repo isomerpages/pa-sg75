@@ -28,9 +28,9 @@ a trading post in Singapore</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>1819 - Tan Tock Seng arrives in Singapore</summary>
+<summary>1819</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Tan Tock Seng and the first teochews arrive in Singapore</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -40,15 +40,9 @@ a trading post in Singapore</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>1819 - The first teochews in Singapore</summary>
+<summary>1823</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>1823 - Beginning of Kampong Glam</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Beginning of Kampong Glam</p>
 </div>
 </details>
 <details class="isomer-details">
