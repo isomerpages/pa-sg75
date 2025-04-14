@@ -32,8 +32,7 @@ third_nav_title: Winners
 <p>Programme Latitude: GCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/ms.c.eJwtycENADEIA7CNTqEhAfZfrLqKp2U6RIsR4wE~;Ptu~;e7AuVZvKWnemiAOt57wnLoMkEBI~-.bps.a.361522957864927/361536531196903/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Online Design of Futuristic Landscape</a>
-</p>
+<p>Online Design of Futuristic Landscape</p>
 </td>
 </tr>
 <tr>
@@ -44,8 +43,7 @@ third_nav_title: Winners
 <p>No Group Name</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361522957864927/361536844530205/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Old Man Singapore</a>
-</p>
+<p>Old Man Singapore</p>
 </td>
 </tr>
 <tr>
@@ -56,8 +54,7 @@ third_nav_title: Winners
 <p>2 COPALAUS (DHS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361522957864927/361536927863530/?type=3&amp;theater" rel="noopener nofollow" target="_blank">This Little City</a>
-</p>
+<p>This Little City</p>
 </td>
 </tr>
 <tr>
@@ -68,8 +65,7 @@ third_nav_title: Winners
 <p>GTX3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361522957864927/361536757863547/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Our story, unfinished</a>
-</p>
+<p>Our story, unfinished</p>
 </td>
 </tr>
 </tbody>
@@ -101,8 +97,7 @@ third_nav_title: Winners
 <p>Alesha Johanes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361522957864927/361524951198061/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Singa-home in 2040</a>
-</p>
+<p>Singa-home in 2040</p>
 </td>
 </tr>
 <tr>
@@ -113,8 +108,7 @@ third_nav_title: Winners
 <p>Elston Lee Yeh Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361522957864927/361524461198110/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Living Garden Art Space</a>
-</p>
+<p>Living Garden Art Space</p>
 </td>
 </tr>
 <tr>
@@ -125,8 +119,7 @@ third_nav_title: Winners
 <p>Tan Jie En, Eden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361522957864927/361524797864743/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Imagination</a>
-</p>
+<p>Imagination</p>
 </td>
 </tr>
 </tbody>
@@ -158,8 +151,7 @@ third_nav_title: Winners
 <p>Hourglass</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361553917861831/361556374528252/?type=3&amp;theater" rel="noopener nofollow" target="_blank">The Hour Glass</a>
-</p>
+<p>The Hour Glass</p>
 </td>
 </tr>
 <tr>
@@ -170,8 +162,7 @@ third_nav_title: Winners
 <p>Futuristic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361553917861831/361556467861576/?type=3&amp;theater" rel="noopener nofollow" target="_blank">What Singapore Will be In the Future</a>
-</p>
+<p>What Singapore Will be In the Future</p>
 </td>
 </tr>
 <tr>
@@ -182,8 +173,7 @@ third_nav_title: Winners
 <p>Year 2040 Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361553917861831/361556554528234/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Year 2040 Singapore</a>
-</p>
+<p>Year 2040 Singapore</p>
 </td>
 </tr>
 </tbody>
@@ -215,8 +205,7 @@ third_nav_title: Winners
 <p>Chng Ya Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361553917861831/361554434528446/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Land Sustainability</a>
-</p>
+<p>Land Sustainability</p>
 </td>
 </tr>
 <tr>
@@ -227,8 +216,7 @@ third_nav_title: Winners
 <p>Liew Wen Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361553917861831/361554954528394/?type=3&amp;theater" rel="noopener nofollow" target="_blank">(NO TITLE)</a>
-</p>
+<p>(NO TITLE)</p>
 </td>
 </tr>
 <tr>
@@ -239,8 +227,7 @@ third_nav_title: Winners
 <p>Janelle See Jia Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361553917861831/361554474528442/?type=3&amp;theater" rel="noopener nofollow" target="_blank">(NO TITLE)</a>
-</p>
+<p>(NO TITLE)</p>
 </td>
 </tr>
 </tbody>
@@ -272,8 +259,7 @@ third_nav_title: Winners
 <p>ITE CE - PL1901A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361579631192593/361582044525685/?type=3&amp;theater" rel="noopener nofollow" target="_blank">SG75 - Our Living Spaces, Transportation and Entertainment</a>
-</p>
+<p>SG75 - Our Living Spaces, Transportation and Entertainment</p>
 </td>
 </tr>
 <tr>
@@ -284,8 +270,7 @@ third_nav_title: Winners
 <p>ITE CE - JB1804S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361579631192593/361582151192341/?type=3&amp;theater" rel="noopener nofollow" target="_blank">How We Will Live</a>
-</p>
+<p>How We Will Live</p>
 </td>
 </tr>
 <tr>
@@ -296,8 +281,7 @@ third_nav_title: Winners
 <p>Team_PRATAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361579631192593/361584294525460/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Sustainability &amp; Growth (SG)</a>
-</p>
+<p>Sustainability &amp; Growth (SG)</p>
 </td>
 </tr>
 </tbody>
@@ -329,8 +313,7 @@ third_nav_title: Winners
 <p>Chong Ching Weng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361579631192593/361580431192513/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Our Underground Housing and Facilities</a>
-</p>
+<p>Our Underground Housing and Facilities</p>
 </td>
 </tr>
 <tr>
@@ -341,8 +324,7 @@ third_nav_title: Winners
 <p>Chong Jin Rong Theodore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361579631192593/361581014525788/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Green and Breathing City</a>
-</p>
+<p>Green and Breathing City</p>
 </td>
 </tr>
 <tr>
@@ -353,8 +335,7 @@ third_nav_title: Winners
 <p>Aura Qonita Bte Fatholmoein</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.361579631192593/361580257859197/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Simplicity of Greenery</a>
-</p>
+<p>Simplicity of Greenery</p>
 </td>
 </tr>
 </tbody>
