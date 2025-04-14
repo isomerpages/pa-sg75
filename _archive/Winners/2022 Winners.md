@@ -32,8 +32,7 @@ third_nav_title: Winners
 <p>Evangeline Ang Shi Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1042997479717468&amp;set=a.1042999259717290" rel="noopener nofollow" target="_blank">Towards a Cohesive and Sustainable 2040 in Singapore</a>
-</p>
+<p>Towards a Cohesive and Sustainable 2040 in Singapore</p>
 </td>
 </tr>
 <tr>
@@ -44,8 +43,7 @@ third_nav_title: Winners
 <p>Mikha Alexander Fang&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1042997553050794&amp;set=a.1042999259717290" rel="noopener nofollow" target="_blank">My Future Singapore</a>
-</p>
+<p>My Future Singapore</p>
 </td>
 </tr>
 <tr>
@@ -56,8 +54,7 @@ third_nav_title: Winners
 <p>Nur Nyla Syakila Bte Suhardi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1042997739717442&amp;set=a.1042999259717290" rel="noopener nofollow" target="_blank">Inclusive Singapore</a>
-</p>
+<p>Inclusive Singapore</p>
 </td>
 </tr>
 </tbody>
@@ -89,8 +86,7 @@ third_nav_title: Winners
 <p>Wong Xing Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043027029714513&amp;set=a.1043031756380707" rel="noopener nofollow" target="_blank">Onward: The 3R Vision</a>
-</p>
+<p>Onward: The 3R Vision</p>
 </td>
 </tr>
 <tr>
@@ -101,8 +97,7 @@ third_nav_title: Winners
 <p>Koong Bok Hui, Alphonsus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043026636381219&amp;set=a.1043031756380707" rel="noopener nofollow" target="_blank">The Little Red Dot that Can</a>
-</p>
+<p>The Little Red Dot that Can</p>
 </td>
 </tr>
 <tr>
@@ -113,8 +108,7 @@ third_nav_title: Winners
 <p>RYAN TAN ZI LIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043026926381190&amp;set=a.1043031756380707" rel="noopener nofollow" target="_blank">Is Singapore Ready?</a>
-</p>
+<p>Is Singapore Ready?</p>
 </td>
 </tr>
 </tbody>
@@ -146,8 +140,7 @@ third_nav_title: Winners
 <p>Steve4Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043026309714585&amp;set=a.1043031756380707" rel="noopener nofollow" target="_blank">THE ESSAY: Finding space for everyone in modern Singapore</a>
-</p>
+<p>THE ESSAY: Finding space for everyone in modern Singapore</p>
 </td>
 </tr>
 <tr>
@@ -158,8 +151,7 @@ third_nav_title: Winners
 <p>Stronger Together</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043026186381264&amp;set=a.1043031756380707" rel="noopener nofollow" target="_blank">Singapore - The Melting Pot</a>
-</p>
+<p>Singapore - The Melting Pot</p>
 </td>
 </tr>
 <tr>
@@ -170,8 +162,7 @@ third_nav_title: Winners
 <p>Baby RIse.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043026283047921&amp;set=a.1043031756380707" rel="noopener nofollow" target="_blank">Impact of declining birth rates on SG75</a>
-</p>
+<p>Impact of declining birth rates on SG75</p>
 </td>
 </tr>
 </tbody>
@@ -203,8 +194,7 @@ third_nav_title: Winners
 <p>Evelyn Chai Yi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043079243042625&amp;set=a.1043086336375249" rel="noopener nofollow" target="_blank">Inclusive Singapore</a>
-</p>
+<p>Inclusive Singapore</p>
 </td>
 </tr>
 <tr>
@@ -215,8 +205,7 @@ third_nav_title: Winners
 <p>Lin Xinyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043079213042628&amp;set=a.1043086336375249" rel="noopener nofollow" target="_blank">Circles of Life</a>
-</p>
+<p>Circles of Life</p>
 </td>
 </tr>
 <tr>
@@ -227,8 +216,7 @@ third_nav_title: Winners
 <p>Wong Zi Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043079416375941&amp;set=a.1043086336375249" rel="noopener nofollow" target="_blank">Building an Inclusive Singapore</a>
-</p>
+<p>Building an Inclusive Singapore</p>
 </td>
 </tr>
 </tbody>
@@ -260,8 +248,7 @@ third_nav_title: Winners
 <p>Tan Yu Xuan Jenell and Tan Yu Shan Jemma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo?fbid=1043079009709315&amp;set=a.1043086336375249" rel="noopener nofollow" target="_blank">Click the beautiful 'Inclusive Singapore'</a>
-</p>
+<p>Click the beautiful 'Inclusive Singapore'</p>
 </td>
 </tr>
 <tr>
@@ -272,8 +259,7 @@ third_nav_title: Winners
 <p>P6-4 Ntps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo?fbid=1043078873042662&amp;set=a.1043086336375249" rel="noopener nofollow" target="_blank">Rainbowpore</a>
-</p>
+<p>Rainbowpore</p>
 </td>
 </tr>
 <tr>
@@ -284,8 +270,7 @@ third_nav_title: Winners
 <p>Team Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo?fbid=1043078806376002&amp;set=a.1043086336375249" rel="noopener nofollow" target="_blank">Our Dream Homes of the Future</a>
-</p>
+<p>Our Dream Homes of the Future</p>
 </td>
 </tr>
 </tbody>
@@ -317,8 +302,7 @@ third_nav_title: Winners
 <p>KARINA XYZA D/O SELVARAJU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043142379702978&amp;set=a.1043144679702748" rel="noopener nofollow" target="_blank">It's the little things</a>
-</p>
+<p>It's the little things</p>
 </td>
 </tr>
 <tr>
@@ -329,8 +313,7 @@ third_nav_title: Winners
 <p>Tham Shi En, Serena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043142236369659&amp;set=a.1043144679702748" rel="noopener nofollow" target="_blank">Our Singapore</a>
-</p>
+<p>Our Singapore</p>
 </td>
 </tr>
 <tr>
@@ -341,8 +324,7 @@ third_nav_title: Winners
 <p>Renee Chng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo?fbid=1043142903036259&amp;set=a.1043144679702748" rel="noopener nofollow" target="_blank">Rubik's Cube of Challenges</a>
-</p>
+<p>Rubik's Cube of Challenges</p>
 </td>
 </tr>
 </tbody>
@@ -374,8 +356,7 @@ third_nav_title: Winners
 <p>Team Sky</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043142136369669&amp;set=a.1043144679702748" rel="noopener nofollow" target="_blank">Together, We Conquer</a>
-</p>
+<p>Together, We Conquer</p>
 </td>
 </tr>
 <tr>
@@ -386,8 +367,7 @@ third_nav_title: Winners
 <p>Pink Cherries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043142219702994&amp;set=a.1043144679702748" rel="noopener nofollow" target="_blank">Stronger Together</a>
-</p>
+<p>Stronger Together</p>
 </td>
 </tr>
 <tr>
@@ -398,8 +378,7 @@ third_nav_title: Winners
 <p>KXS Aesthetic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/photo/?fbid=1043141623036387&amp;set=a.1043144679702748" rel="noopener nofollow" target="_blank">Singapore: past, present and future</a>
-</p>
+<p>Singapore: past, present and future</p>
 </td>
 </tr>
 </tbody>
