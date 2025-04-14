@@ -33,8 +33,7 @@ third_nav_title: Winners
 <p>DNA&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213870805963477&amp;type=3" rel="noopener nofollow" target="_blank">SG75 - Rewrite the Stars</a>
-</p>
+<p>SG75 - Rewrite the Stars</p>
 </td>
 </tr>
 <tr>
@@ -45,8 +44,7 @@ third_nav_title: Winners
 <p>&nbsp;Team WEDJ</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213873865963171&amp;type=3" rel="noopener nofollow" target="_blank">Progress, for our Nation</a>
-</p>
+<p>Progress, for our Nation</p>
 </td>
 </tr>
 <tr>
@@ -58,8 +56,7 @@ third_nav_title: Winners
 <br>Global Citizenship &amp; Advocacy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213876629296228&amp;type=3" rel="noopener nofollow" target="_blank">Our Sustainable Town</a>
-</p>
+<p>Our Sustainable Town</p>
 </td>
 </tr>
 <tr>
@@ -70,8 +67,7 @@ third_nav_title: Winners
 <p>&nbsp;RVHS Group 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213927832624441&amp;type=3" rel="noopener nofollow" target="_blank">Singapore 2040: Innovation for a Better Tomorrow</a>
-</p>
+<p>Singapore 2040: Innovation for a Better Tomorrow</p>
 </td>
 </tr>
 <tr>
@@ -82,8 +78,7 @@ third_nav_title: Winners
 <p>Biometrics Team&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213871942630030&amp;type=3" rel="noopener nofollow" target="_blank">A Cashless Society</a>
-</p>
+<p>A Cashless Society</p>
 </td>
 </tr>
 <tr>
@@ -94,8 +89,7 @@ third_nav_title: Winners
 <p>Concordia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213872855963272&amp;type=3" rel="noopener nofollow" target="_blank">A Nation of Possibilities</a>
-</p>
+<p>A Nation of Possibilities</p>
 </td>
 </tr>
 </tbody>
@@ -127,8 +121,7 @@ third_nav_title: Winners
 <p>&nbsp;Wong Xing Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213883545962203&amp;type=3" rel="noopener nofollow" target="_blank">SG75: A Greener Singapore</a>
-</p>
+<p>SG75: A Greener Singapore</p>
 </td>
 </tr>
 <tr>
@@ -139,8 +132,7 @@ third_nav_title: Winners
 <p>Aakash Ramakrishna&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213882289295662&amp;type=3" rel="noopener nofollow" target="_blank">SG75 - Future through my eyes</a>
-</p>
+<p>SG75 - Future through my eyes</p>
 </td>
 </tr>
 <tr>
@@ -151,8 +143,7 @@ third_nav_title: Winners
 <p>&nbsp;Yeo Jin Ren Ryan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213880602629164&amp;type=3" rel="noopener nofollow" target="_blank">SG Connect</a>
-</p>
+<p>SG Connect</p>
 </td>
 </tr>
 <tr>
@@ -163,8 +154,7 @@ third_nav_title: Winners
 <p>Ravichandran Divya Poorani&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213881755962382&amp;type=3" rel="noopener nofollow" target="_blank">SG75 - A walk ahead to our future</a>
-</p>
+<p>SG75 - A walk ahead to our future</p>
 </td>
 </tr>
 <tr>
@@ -175,8 +165,7 @@ third_nav_title: Winners
 <p>Ong Zhen Lun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.213881125962445/213881155962442/?type=3" rel="noopener nofollow" target="_blank">Lean, green, Singapore!</a>
-</p>
+<p>Lean, green, Singapore!</p>
 </td>
 </tr>
 <tr>
@@ -187,8 +176,7 @@ third_nav_title: Winners
 <p>Yen Ning-Yo&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213882879295603&amp;type=3" rel="noopener nofollow" target="_blank">Fast forward into the future</a>
-</p>
+<p>Fast forward into the future</p>
 </td>
 </tr>
 </tbody>
@@ -220,8 +208,7 @@ third_nav_title: Winners
 <p>YTF</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213894045961153&amp;type=3" rel="noopener nofollow" target="_blank">Our Future Retail Stores</a>
-</p>
+<p>Our Future Retail Stores</p>
 </td>
 </tr>
 <tr>
@@ -232,8 +219,7 @@ third_nav_title: Winners
 <p>WAFFLEO&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213896265960931&amp;type=3" rel="noopener nofollow" target="_blank">Our Vision for Singapore's Future</a>
-</p>
+<p>Our Vision for Singapore's Future</p>
 </td>
 </tr>
 <tr>
@@ -244,8 +230,7 @@ third_nav_title: Winners
 <p>LXXV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213889019294989&amp;type=3" rel="noopener nofollow" target="_blank">Bridge the Gap - A Better Future for Generations</a>
-</p>
+<p>Bridge the Gap - A Better Future for Generations</p>
 </td>
 </tr>
 <tr>
@@ -256,8 +241,7 @@ third_nav_title: Winners
 <p>&nbsp;Saving the earth!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.213895402627684/213895425961015/?type=3" rel="noopener nofollow" target="_blank">Reduce, Reuse, Recycle!</a>
-</p>
+<p>Reduce, Reuse, Recycle!</p>
 </td>
 </tr>
 <tr>
@@ -268,8 +252,7 @@ third_nav_title: Winners
 <p>CCFYA&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213887265961831&amp;type=3" rel="noopener nofollow" target="_blank">Our Homes in SG75</a>
-</p>
+<p>Our Homes in SG75</p>
 </td>
 </tr>
 <tr>
@@ -280,8 +263,7 @@ third_nav_title: Winners
 <p>Hua Yi Secondary School&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.213892695961288/213892722627952/?type=3" rel="noopener nofollow" target="_blank">An Eye into the Future</a>
-</p>
+<p>An Eye into the Future</p>
 </td>
 </tr>
 <tr>
@@ -292,8 +274,7 @@ third_nav_title: Winners
 <p>DJKKZ.Ent&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213894622627762&amp;type=3" rel="noopener nofollow" target="_blank">Smart Home</a>
-</p>
+<p>Smart Home</p>
 </td>
 </tr>
 </tbody>
@@ -325,8 +306,7 @@ third_nav_title: Winners
 <p>Nurul Atikah Binte Mohamed Soffian&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.213897892627435/213897942627430/?type=3" rel="noopener nofollow" target="_blank">A Future of Inclusiveness with Technology</a>
-</p>
+<p>A Future of Inclusiveness with Technology</p>
 </td>
 </tr>
 <tr>
@@ -337,8 +317,7 @@ third_nav_title: Winners
 <p>Ashley Seah En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.213900482627176/213900515960506/?type=3" rel="noopener nofollow" target="_blank">Flow with the River</a>
-</p>
+<p>Flow with the River</p>
 </td>
 </tr>
 <tr>
@@ -349,8 +328,7 @@ third_nav_title: Winners
 <p>Reuben Mah&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.213899652627259/213899695960588/?type=3" rel="noopener nofollow" target="_blank">Singapore, Our New Underground Home</a>
-</p>
+<p>Singapore, Our New Underground Home</p>
 </td>
 </tr>
 <tr>
@@ -361,8 +339,7 @@ third_nav_title: Winners
 <p>Luvlyn Lim Enqi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.213899369293954/213899389293952/?type=3" rel="noopener nofollow" target="_blank">Our Singapore Competition SG 75 (17)</a>
-</p>
+<p>Our Singapore Competition SG 75 (17)</p>
 </td>
 </tr>
 <tr>
@@ -373,8 +350,7 @@ third_nav_title: Winners
 <p>Soh Hwee Yi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.213896892627535/213896929294198/?type=3" rel="noopener nofollow" target="_blank">Next</a>
-</p>
+<p>Next</p>
 </td>
 </tr>
 <tr>
@@ -385,8 +361,7 @@ third_nav_title: Winners
 <p>Chaemin Lee&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.213898892627335/213898915960666/?type=3" rel="noopener nofollow" target="_blank">Our Singapore Competition SG 75 (10)</a>
-</p>
+<p>Our Singapore Competition SG 75 (10)</p>
 </td>
 </tr>
 <tr>
@@ -397,8 +372,7 @@ third_nav_title: Winners
 <p>Jose Chow Yi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/media/set/?set=a.213900025960555&amp;type=3" rel="noopener nofollow" target="_blank">Our Future With The Aid Of Technology</a>
-</p>
+<p>Our Future With The Aid Of Technology</p>
 </td>
 </tr>
 </tbody>
