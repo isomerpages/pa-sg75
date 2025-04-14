@@ -126,12 +126,6 @@ Singapore</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Spotlight on Eurasian community</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
 <summary>1905</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>P. Govindasamy Pillai arrives in Singapore</p>
@@ -141,12 +135,6 @@ Singapore</p>
 <summary>1907</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Mohammed Eunos becomes editor of Utusan Malayu</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Contribution of Indian community</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
 </details>
 </div>
