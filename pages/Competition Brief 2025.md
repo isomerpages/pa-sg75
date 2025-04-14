@@ -125,7 +125,7 @@ of the organising committee.</p>
 <p>Closing Date of Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>05 Aug 2024 (Monday), 17:00HRS (UTC+8)</p>
+<p>To be announced</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ of the organising committee.</p>
 <p>Notification of Results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 September 2024</p>
+<p>To be announced</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ of the organising committee.</p>
 <p>Awards Ceremony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 November 2024</p>
+<p>8 November 2025</p>
 </td>
 </tr>
 </tbody>
@@ -333,5 +333,4 @@ are used, English subtitles are required.</p>
 </div>
 </details>
 </div>
-<p><a href="https://sg75.sg/images/SG75_Competition_Brief_2024_EditionV2.pdf" rel="noopener nofollow" target="_blank">Quick Access to Download Competition Brief</a>
-</p>
+<p></p>
