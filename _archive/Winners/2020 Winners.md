@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Winners
 ---
-<p>For information on prize collection, please click <a href="https://sg75.sg/images/winners/2020AwardWinnersPrizeCollection.pdf" rel="noopener nofollow" target="_blank">here.</a>
-</p>
 <p>In light of Covid-19, please take note the following restrictions:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,8 +47,7 @@ of your parents.</p>
 <p>Noah Baey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/ms.c.eJwztTQ3NzE0NDU3NTczMbbQMwXzjcxNjEyMDSyNYXxjiLwBAOirCaU~-.bps.a.597740587576495/597741274243093/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Living in SG75</a>
-</p>
+<p>Living in SG75</p>
 </td>
 </tr>
 <tr>
@@ -61,8 +58,7 @@ of your parents.</p>
 <p>Grace Koh En Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/ms.c.eJwztTQ3NzE0NDU3NTczMbbQMwXzjcxNjEyMDSyNYXxjiLwBAOirCaU~-.bps.a.597740587576495/597741157576438/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Make the World Better, Singapore</a>
-</p>
+<p>Make the World Better, Singapore</p>
 </td>
 </tr>
 <tr>
@@ -73,8 +69,7 @@ of your parents.</p>
 <p>Ng Jiyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/ms.c.eJwztTQ3NzE0NDU3NTczMbbQMwXzjcxNjEyMDSyNYXxjiLwBAOirCaU~-.bps.a.597740587576495/597741237576430/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Climate Crisis -SG75</a>
-</p>
+<p>Climate Crisis - SG75</p>
 </td>
 </tr>
 </tbody>
@@ -106,8 +101,7 @@ of your parents.</p>
 <p>The Green Trio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598066154210605/598069274210293/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Is this Green or Otherwise?</a>
-</p>
+<p>Is this Green or Otherwise?</p>
 </td>
 </tr>
 <tr>
@@ -119,8 +113,7 @@ of your parents.</p>
 <br>(Collect And Reuse water)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598066154210605/598069300876957/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Smart Sink</a>
-</p>
+<p>Smart Sink</p>
 </td>
 </tr>
 <tr>
@@ -131,8 +124,7 @@ of your parents.</p>
 <p>DJEW</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598066154210605/598069450876942/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Our Little Green Dot</a>
-</p>
+<p>Our Little Green Dot</p>
 </td>
 </tr>
 </tbody>
@@ -164,8 +156,7 @@ of your parents.</p>
 <p>Cheong Nian Kai&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598066154210605/598067204210500/?type=3&amp;theater" rel="noopener nofollow" target="_blank">The Future Lies In Our Hands</a>
-</p>
+<p>The Future Lies In Our Hands</p>
 </td>
 </tr>
 <tr>
@@ -176,8 +167,7 @@ of your parents.</p>
 <p>Praakhar Agrawal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598066154210605/598066897543864/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Sustainability: Fighting the Climate Crisis as a Community</a>
-</p>
+<p>Sustainability: Fighting the Climate Crisis as a Community</p>
 </td>
 </tr>
 <tr>
@@ -188,8 +178,7 @@ of your parents.</p>
 <p>Ng Jun Heng Rayson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598066154210605/598066977543856/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Hello From the Year 2040</a>
-</p>
+<p>Hello From the Year 2040</p>
 </td>
 </tr>
 <tr>
@@ -200,8 +189,7 @@ of your parents.</p>
 <p>Ng Yi Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598066154210605/598067237543830/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Singapore, Our Future, Our Home</a>
-</p>
+<p>Singapore, Our Future, Our Home</p>
 </td>
 </tr>
 </tbody>
@@ -233,8 +221,7 @@ of your parents.</p>
 <p>Chor Ying En and Ysabel Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598133277537226/598136524203568/?type=3&amp;theater" rel="noopener nofollow" target="_blank">A sustainable Singapore</a>
-</p>
+<p>A sustainable Singapore</p>
 </td>
 </tr>
 <tr>
@@ -245,8 +232,7 @@ of your parents.</p>
 <p>ADRIANA IRDINA and NUR AUNI BATRISYIA_Shuqun Pri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598133277537226/598136610870226/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Singapore, A Better Tomorrow</a>
-</p>
+<p>Singapore, A Better Tomorrow</p>
 </td>
 </tr>
 </tbody>
@@ -278,8 +264,7 @@ of your parents.</p>
 <p>Janelle See Jia Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598133277537226/598133780870509/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Let’s fight climate change hand in hand!</a>
-</p>
+<p>Let’s fight climate change hand in hand!</p>
 </td>
 </tr>
 <tr>
@@ -290,8 +275,7 @@ of your parents.</p>
 <p>Asher Ong Yule</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598133277537226/598133854203835/?type=3&amp;theater" rel="noopener nofollow" target="_blank">The World Glass</a>
-</p>
+<p>The World Glass</p>
 </td>
 </tr>
 <tr>
@@ -302,8 +286,7 @@ of your parents.</p>
 <p>Tham Shao En Joel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598133277537226/598134027537151/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Our Path to Fighting Climate Change</a>
-</p>
+<p>Our Path to Fighting Climate Change</p>
 </td>
 </tr>
 </tbody>
@@ -335,8 +318,7 @@ of your parents.</p>
 <p>NYGH Group 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598246337525920/598253704191850/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Daily Sustainability</a>
-</p>
+<p>Daily Sustainability</p>
 </td>
 </tr>
 <tr>
@@ -347,8 +329,7 @@ of your parents.</p>
 <p>On a Roll</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598246337525920/598253617525192/?type=3&amp;theater" rel="noopener nofollow" target="_blank">A Shaped-Up Future</a>
-</p>
+<p>A Shaped-Up Future</p>
 </td>
 </tr>
 <tr>
@@ -359,8 +340,7 @@ of your parents.</p>
 <p>NYGH Group 12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598246337525920/598253744191846/?type=3&amp;theater" rel="noopener nofollow" target="_blank">The thermometer of Earth</a>
-</p>
+<p>The thermometer of Earth</p>
 </td>
 </tr>
 <tr>
@@ -371,8 +351,7 @@ of your parents.</p>
 <p>mace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598246337525920/598253610858526/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Green at Home, Great at Heart</a>
-</p>
+<p>Green at Home, Great at Heart</p>
 </td>
 </tr>
 </tbody>
@@ -404,8 +383,7 @@ of your parents.</p>
 <p>Guo Zi Yue Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598246337525920/598252674191953/?type=3&amp;theater" rel="noopener nofollow" target="_blank">A city of dreams</a>
-</p>
+<p>A city of dreams</p>
 </td>
 </tr>
 <tr>
@@ -416,8 +394,7 @@ of your parents.</p>
 <p>Wong Weishun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598246337525920/598252410858646/?type=3&amp;theater" rel="noopener nofollow" target="_blank">SOMEBODY</a>
-</p>
+<p>SOMEBODY</p>
 </td>
 </tr>
 <tr>
@@ -428,8 +405,7 @@ of your parents.</p>
 <p>Chan Jia Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/photos/a.598246337525920/598252290858658/?type=3&amp;theater" rel="noopener nofollow" target="_blank">Nature Are Priceless</a>
-</p>
+<p>Nature Are Priceless</p>
 </td>
 </tr>
 </tbody>
