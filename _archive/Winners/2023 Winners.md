@@ -44,7 +44,7 @@ third_nav_title: Winners
 <p>Arissa Binte Kamaruzaman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/static1/23S1-IND-1097.pdf" rel="noopener nofollow" target="_blank">LOVE EACH OTHER FOR; NOTIN SPITE</a>
+<p><a href="/files/Arissa_Binte_Kamaruzaman.pdf" rel="noopener nofollow" target="_blank">LOVE EACH OTHER FOR; NOT IN SPITE</a>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ third_nav_title: Winners
 <p>Foong Ke Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/static1/23S1-IND-1041.pdf" rel="noopener nofollow" target="_blank">Hard Truths and Harder Questions:Race and Religion in Singapore</a>
+<p><a href="/files/Foong_Ke_Wei.pdf" rel="noopener nofollow" target="_blank">Hard Truths and Harder Questions</a>
 </p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ third_nav_title: Winners
 <p>Low Miang Han Jack</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/static1/23S1-IND-1031.pdf" rel="noopener nofollow" target="_blank">My View On Improving Singapore</a>
+<p><a href="/files/Low_Miang_Han_Jack.pdf" rel="noopener nofollow" target="_blank">My View on Improving Singapore</a>
 </p>
 </td>
 </tr>
