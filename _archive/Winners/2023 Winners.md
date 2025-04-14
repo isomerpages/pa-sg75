@@ -32,7 +32,7 @@ third_nav_title: Winners
 <p>Koh Rui Feng Ian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/static1/23S1-IND-1077.pdf" rel="noopener nofollow" target="_blank">Increasing Our GST</a>
+<p><a href="/files/Koh_Rui_Feng_Ian.pdf" rel="noopener nofollow" target="_blank">Increasing Our GST</a>
 </p>
 </td>
 </tr>
