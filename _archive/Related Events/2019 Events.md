@@ -31,8 +31,6 @@ third_nav_title: Related Events
 <p><em>Xavier Ang Yan Jun, 11th Singapore Company,</em>
 <br><em>Christ Church Secondary School</em>
 </p>
-<p>Read more about the event <a href="https://www.sg75.sg/images/30MarBBArticle.pdf" rel="noopener nofollow" target="_blank">here</a>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2019_lego_serious_play_2.jpg">
 </div>
