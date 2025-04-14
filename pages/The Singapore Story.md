@@ -235,9 +235,9 @@ up</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>1942 to 1945 - Syonan-To Era</summary>
+<summary>1942 to 1945</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Syonan-To Era</p>
 </div>
 </details>
 </div>
