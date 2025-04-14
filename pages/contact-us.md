@@ -27,8 +27,8 @@ locations:
 contacts:
   - content:
       - phone: +65 6223 0748
-      - email: enquiry@sg75.sg
-      - other: Drop us an email if you have any enquiries.
+      - email: ""
+      - other: ""
     title: General Enquiries & Feedback
 feedback: ""
 ---
