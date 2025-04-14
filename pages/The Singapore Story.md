@@ -479,15 +479,15 @@ the opposition Barisan Sosialis</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>2 Jan 1972</summary>
+<summary>1972</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Dr Benjamin Henry Sheares becomes the 2nd President of Singapore</p>
+<p>Singapore Airlines is formed</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>1972 - Singapore Airlines is formed</summary>
+<summary>2 Jan 1972</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Dr Benjamin Henry Sheares becomes the 2nd President of Singapore</p>
 </div>
 </details>
 <details class="isomer-details">
