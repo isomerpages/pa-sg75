@@ -1,0 +1,26 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Winners/2023 Winners.md
+      - Winners/2022 Winners.md
+      - Winners/2021 Winners.md
+      - Winners/2020 Winners.md
+      - Winners/2019 Winners.md
+      - Winners/2018 Winners.md
+      - Winners/.keep
+      - Award Ceremony/Photos.md
+      - Award Ceremony/2020 Award Ceremony Poster.md
+      - Award Ceremony/.keep
+      - Related Events/2024 Events.md
+      - Related Events/2021 Events.md
+      - Related Events/2019 Events.md
+      - Related Events/2018 Events.md
+      - Related Events/.keep
+      - Competition Themes/.keep
+      - Competition Themes/2023 Edition.md
+      - Competition Themes/2022 Edition.md
+      - Competition Themes/2021 Edition.md
+      - Competition Themes/2020 Edition.md
+      - Competition Themes/2019 Edition.md
+      - Competition Themes/2018 Edition.md

@@ -1,32 +1,34 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: SG75 Singapore Our Home
+description: An Isomer site of the Singapore Government
+image: /images/SG75_Website__5_.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: SG75 Singapore Our Home
+      background: /images/group_pic_2.jpg
+      button: Learn more about this year's theme.
+      url: /competition-brief-2025/
+      key_highlights:
+        - title: Unfamiliar with SG75?
+          description: Competition over the years
+          url: /competition-overview/
+        - title: This year's theme
+          description: 2025 Competition Brief
+          url: /competition-brief-2025/
+        - title: Showcase
+          description: 2023 Winners
+          url: /2023-winners/
+        - title: Contact Us
+          description: Getting in touch
+          url: /contact-us/
+      variant: center
+  - infobar:
+      title: Nation Building
+      subtitle: 200 Years of
+      description: The Singapore Story in a Chronological Timeline
+      button: See the timeline
+      url: /the-singapore-story/
 ---
-
