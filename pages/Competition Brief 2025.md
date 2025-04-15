@@ -66,8 +66,8 @@ have free usage of the submitted works for the competition's&nbsp;publicity
 purposes and future events.</p>
 </li>
 <li>
-<p>Participants are encouraged to use the Creative Commons License (<a href="https://creativecommons.org/choose/" rel="noopener noreferrer nofollow" target="_blank">https://creativecommons.org/choose/</a>)
-for all work submitted.</p>
+<p>Participants are encouraged to use the Creative Commons License for all
+work submitted.</p>
 </li>
 <li>
 <p>The judges' decision is final and no correspondence will be entered into.</p>
