@@ -1,7 +1,7 @@
 logo: /images/SG75_Website_crop.png
 links:
   - title: Home
-    url: /homepage/
+    url: homepage
   - title: About
     collection: about
   - title: Competition Brief
