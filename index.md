@@ -4,7 +4,9 @@ title: SG75 Singapore Our Home
 description: An Isomer site of the Singapore Government
 image: /images/SG75_Website__5_.png
 permalink: /
-notification: ""
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: SG75 Singapore Our Home
