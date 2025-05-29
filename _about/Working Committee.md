@@ -16,7 +16,8 @@ headed by Dr Jenson Goh.
 <br><em>Chief Operating Officer,&nbsp;<br>DP Architects Pte Ltd</em>
 </p>
 <p><strong>Ms Tan See Leng</strong>
-<br><em>Executive Director,&nbsp;<br>Heartware Network</em>&nbsp;</p>
+<br>
+</p>
 <p><strong>Mr Glen Ong</strong>
 <br><em>Executive Director,&nbsp;<br>The Girls' Brigade Singapore</em>
 </p>
