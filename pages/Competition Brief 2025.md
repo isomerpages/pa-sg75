@@ -9,8 +9,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<p><strong>How can we design and build Singapore’s built environment to foster stronger, meaningful connections within communities?</strong>
-</p>
+<h3><strong>Building the Future of Singapore – Inspiring through the Built Environment</strong></h3>
 <p></p>
 <p>We invite your students to explore this exciting question through art,
 stories, and creative ideas in this year’s learning journey, held in collaboration
@@ -125,7 +124,7 @@ of the organising committee.</p>
 <p>Closing Date of Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be announced</p>
+<p>8 August 2025</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +132,7 @@ of the organising committee.</p>
 <p>Notification of Results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be announced</p>
+<p>Mid-October via Email</p>
 </td>
 </tr>
 <tr>
@@ -186,29 +185,25 @@ in a primary school</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>STATIC PRESENTATION - ILLUSTRATION, GRAPHIC DESIGN &amp; PHOTO SUBMISSION</strong>
 </p>
-<p><strong>How to submit:<br></strong>- Upload your file to wetransfer (
-<a href="https://wetransfer.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://wetransfer.com/</u>
-</a>) and a download link will be generated.&nbsp;
-<br>- Please submit the download link via the online registration form.
-<br>- Click here for step-by-step guide on how to get a wetransfer download
-link.</p>
+<p><strong>How to submit:<br></strong>- Upload file onto google drive and
+allow anyone with the link to view the file.&nbsp;
+<br>- Please submit the link via the <a href="https://go.gov.sg/sg75comp2025" rel="noopener nofollow" target="_blank">online registration form</a>.
+<br>
+</p>
 <p><strong>What can I submit:</strong>
 <br>- A single artwork or up to a series of 5 related images in JPEG format</p>
 <p><strong>What are some guidelines I need to take note:<br></strong>- Accepted
 file format is JPEG
 <br>- Maximum resolution 300dpi
-<br>- Total maximum file size is 1GB.
+<br>- Total maximum file size is 20MB.
 <br>- You are required to submit a short explanation about your work in less
 than 750 characters during the online submission.</p>
 <hr>
 <p><strong>DYNAMIC PRESENTATION -&nbsp;ANIMATION &amp; VIDEO SUBMISSION</strong>
 </p>
-<p><strong>How to submit:<br></strong>- Upload your file to wetransfer (
-<a href="https://wetransfer.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://wetransfer.com/</u>
-</a>) and a download link will be generated.&nbsp;
-<br>- Please submit the download link via the online registration form.
-<br>- Click here&nbsp;for step-by-step guide on how to get a wetransfer download
-link.</p>
+<p><strong>How to submit:<br></strong>- Upload file onto google drive and
+allow anyone with the link to view the file.&nbsp;
+<br>- Please submit the link via the <a href="https://go.gov.sg/sg75comp2025" rel="noopener nofollow" target="_blank">online registration form</a>.</p>
 <p><strong>What can I submit:</strong>
 <br>- Video files should be in HD (1920 x 1080) and .mp4 format, no longer
 than 3 minutes in length.</p>
