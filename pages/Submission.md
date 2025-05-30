@@ -4,6 +4,6 @@ permalink: /submission/
 variant: tiptap
 description: ""
 ---
-<p>Thank you for your interest in taking part in this year's SG75 competition.</p>
-<p>Submission is now closed. We look forward to your participation again
-next year.</p>
+<p>The SG75 Singapore Our Home Competition 2025 is open!</p>
+<p>Submit your entries via: <a href="https://go.gov.sg/sg75comp2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg75comp2025</a>
+</p>
