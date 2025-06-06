@@ -28,6 +28,15 @@ sections:
           description: Getting in touch
           url: /contact-us/
       variant: center
+  - infopic:
+      title: Building the Future of Singapore
+      subtitle: 2025 competition theme
+      id: infopic
+      description: Submit your entries now!
+      button: Find out more
+      url: /2025-competition-brief/
+      image: /images/Screenshot_2025_06_06_145345.png
+      alt: Image alt text
   - infobar:
       title: Nation Building
       subtitle: 200 Years of
