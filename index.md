@@ -34,7 +34,7 @@ sections:
       id: infopic
       description: Submit your entries now!
       button: Find out more
-      url: /2025-competition-brief/
+      url: /competition-brief-2025/
       image: /images/Screenshot_2025_06_06_145345.png
   - infobar:
       title: Nation Building
