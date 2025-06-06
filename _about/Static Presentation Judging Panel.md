@@ -10,36 +10,32 @@ description: ""
 </p>
 <p>Shee Koeng is a Director with home-grown Architectural firm DP Architects
 Pte Ltd. He is a Registered Architect with the Singapore Board of Architects.</p>
-<p><strong>Dr William Wan</strong>
-<br><em>Writer/ General Secretary, Singapore Kindness Movement<br>Chairman, Prison Fellowship Singapore<br>Chairman, Ethics Committee, Farrer Park Hospital<br></em>
+<p></p>
+<p><strong>Ms Aida binte Khalid</strong>
+<br><em>Senior Lecturer, Lead in Subjects and Design Projects<br>Senior Consultant, BeyonDesign Centre<br>Senior Manager, Temasek Polytechnic, School of Design<br></em>
 </p>
-<p>William also serves on the Council and Board of several non-profit organisations
-including the Boys' Scout Association of Singapore and the Public Hygiene
-Council. He is on the Advisory Committee of several education institutions,
-and is on the Selection Panel of Singapore University of Social Sciences’
-Law School.
-<br>
-<br>He is author of several books and numerous articles, and speaker at conferences
-and other public forms.
-<br>- 1985 Ottawa Board of Police Commissioners Award
-<br>- 1986 Ontario Solicitor’s General Award
-<br>- 2011 Active Ager Award
-<br>- 2015 Abdeali Tayebali Lifetime Achievement Award for being a Community
-Leader Extraordinaire.
-<br>- 2017 President’s Volunteerism and Philanthropy Award in the individual
-senior category</p>
-<p><strong>Mr Seah Chee Huang</strong>
-<br><em>Director, DP Architects Pte Ltd<br>Adjunct Design Tutor, NUS Department of Architecture</em>
+<p></p>
+<p><strong>Ms Sim Ee Waun</strong>
+<br><em>Food and Travel Writer<br>Freelance Editor for 28 years</em>
 </p>
-<p>Chee Huang is interested in exploring how architecture can be an effective
-social vehicle, to engage minds, touch hearts and inspire lives. He was
-one of the lead architects on the <em>Singapore Sports Hub, Our Tampines Hub</em> and <em>Sembawang Sports and Community Hub</em> projects.
-Chee Huang champions some of DP’s key corporate social responsibility initiatives
-including <em>Project Bus Stop</em>, that re-imagined bus stops as meaningful
-social nodes; <em>Goodlife! Makan</em>, a community kitchen that engages
-and empowers stay-alone elderlies through food, and the 2016 National Day
-Parade set design of Sky City. He also currently sits on design advisory
-panels and committees for various agencies and institutions.</p>
+<p>Sim Ee Waun is the author of several books:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore's Hidden Heritage</p>
+</li>
+<li>
+<p>We Shall Remember: The Story of Singapore at War</p>
+</li>
+<li>
+<p>The Little Singapore Book</p>
+</li>
+<li>
+<p>The House on Silat Road</p>
+</li>
+<li>
+<p>The House on Palmer Road</p>
+</li>
+</ul>
 <p><strong>Ms Tia Boon Sim</strong>
 <br><em>Inaugural Artist-in-Residence, Centre for TransCultural Studies, Temasek Polytechnic<br>Founder, Urban Sketchers Singapore<br>Founder, Thow Kwang Artists Studio<br></em>
 </p>
