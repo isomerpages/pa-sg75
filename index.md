@@ -12,8 +12,6 @@ sections:
   - hero:
       title: SG75 Singapore Our Home
       background: /images/Screenshot_2025_06_06_151916.png
-      button: Learn more about this year's theme.
-      url: /competition-brief-2025/
       key_highlights:
         - title: Unfamiliar with SG75?
           description: Competition over the years
