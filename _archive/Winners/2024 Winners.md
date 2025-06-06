@@ -242,10 +242,10 @@ third_nav_title: Winners
 <p>First</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loricia Yap Yu Xin</p>
+<p>Lee Zhe Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Loricia_Yap_Yu_Xin.pdf" rel="noopener nofollow" target="_blank">Swimming With a Merlion</a>
+<p><a href="/files/2024 Winners/Open_1st___Lee_Zhe_Xuan.pdf" rel="noopener nofollow" target="_blank">The puzzle waiting to be done</a>
 </p>
 </td>
 </tr>
@@ -254,10 +254,10 @@ third_nav_title: Winners
 <p>Second</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Han Yu Che</p>
+<p>Taseefa Shasmeen Binte Mainuddin Ahmed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Han_Yu_Che.pdf" rel="noopener nofollow" target="_blank">This is my Home, Truly</a>
+<p><a href="/files/2024 Winners/Open_2nd___Taseefa_Shasmeen_Binte_Mainuddin_Ahmed.pdf" rel="noopener nofollow" target="_blank">A Sneak Peek into SG75</a>
 </p>
 </td>
 </tr>
@@ -266,10 +266,22 @@ third_nav_title: Winners
 <p>Third</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Trixia Pearl Del Rio De Vera</p>
+<p>Sheker Gowri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Trixia.pdf" rel="noopener nofollow" target="_blank">A Harmonious Symphony</a>
+<p><a href="/files/2024 Winners/Open_3rd___Sheker_Gowri.pdf" rel="noopener nofollow" target="_blank">Singapore: A Journey into the Future</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Third</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Min Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 Winners/Open_3rd___Goh_Min_Xuan.pdf" rel="noopener nofollow" target="_blank">Set Sail Into The Future!</a>
 </p>
 </td>
 </tr>
