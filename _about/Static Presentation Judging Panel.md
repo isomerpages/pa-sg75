@@ -36,8 +36,10 @@ Pte Ltd. He is a Registered Architect with the Singapore Board of Architects.</p
 <p>The House on Palmer Road</p>
 </li>
 </ul>
-<p><strong>Ms Tia Boon Sim</strong>
-<br><em>Inaugural Artist-in-Residence, Centre for TransCultural Studies, Temasek Polytechnic<br>Founder, Urban Sketchers Singapore<br>Founder, Thow Kwang Artists Studio<br></em>
+<p><strong>Mr Tham Cheng-E</strong>
+<br><em>Architect</em>
+</p>
+<p><em><br></em>
 </p>
 <p>Tia is an architect turned art and design educator. She was tutored by
 local art pioneer, the late Mr Liu Kang. Her paintings were made into stamps
