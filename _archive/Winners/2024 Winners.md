@@ -311,10 +311,10 @@ third_nav_title: Winners
 <p>First</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Group MERLION</p>
+<p>Dream Builders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Group_Merlion.pdf" rel="noopener nofollow" target="_blank">Colours of Unity</a>
+<p><a href="/files/2024 Winners/Grp_Open_1st___Dream_Builders.pdf" rel="noopener nofollow" target="_blank">Sailing on a Shared Dream: Singapore's Past, Present and Future</a>
 </p>
 </td>
 </tr>
@@ -323,10 +323,10 @@ third_nav_title: Winners
 <p>Second</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vegetables</p>
+<p>Team Posnan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Vegetables.pdf" rel="noopener nofollow" target="_blank">Garden Salad City</a>
+<p><a href="/files/2024 Winners/Grp_Open_2nd___Team_Posnan.pdf" rel="noopener nofollow" target="_blank">Project Up Singapore</a>
 </p>
 </td>
 </tr>
@@ -335,10 +335,10 @@ third_nav_title: Winners
 <p>Third</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NYGH group 8</p>
+<p>Railway Connoisseurs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NYGH_group_8.pdf" rel="noopener nofollow" target="_blank">Our Void Deck</a>
+<p><a href="/files/2024 Winners/Grp_Open_3rd___railway_connoisseurs.pdf" rel="noopener nofollow" target="_blank">All Hands On Deck</a>
 </p>
 </td>
 </tr>
@@ -368,11 +368,10 @@ third_nav_title: Winners
 <p>First</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Su Yuan Angel</p>
+<p>Kwek Yu Ze Joash</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5001.mp4" rel="noopener nofollow" target="_blank">Please don't judge a book by its cover</a>
-</p>
+<p>APS SG75 Joash</p>
 </td>
 </tr>
 <tr>
@@ -380,11 +379,21 @@ third_nav_title: Winners
 <p>Second</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Freyja Aditi Nagarajan</p>
+<p>Wang Zhenyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5004.mp4" rel="noopener nofollow" target="_blank">Diverse Family Trees - One Identity</a>
-</p>
+<p>The Prosperous Future of Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Third</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Darius Law Xun Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evolving Cars</p>
 </td>
 </tr>
 </tbody>
@@ -413,11 +422,10 @@ third_nav_title: Winners
 <p>First</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SQPS Artists</p>
+<p>How Racial Harmony Affects Us In Our Future</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/videos/658361562897206/" rel="noopener nofollow" target="_blank">Many FACES, Many RACES, ONE SG</a>
-</p>
+<p>How Racial Harmony Affects Us In Our Future</p>
 </td>
 </tr>
 <tr>
@@ -425,11 +433,10 @@ third_nav_title: Winners
 <p>Second</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Group 1</p>
+<p>The Worm With No Friends</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/videos/985788009407463/" rel="noopener nofollow" target="_blank">Different Yet One</a>
-</p>
+<p>The Worm With No Friends</p>
 </td>
 </tr>
 <tr>
@@ -437,11 +444,10 @@ third_nav_title: Winners
 <p>Third</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GLZJ</p>
+<p>WDP TEAM 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/oursg75/videos/859582455831983/" rel="noopener nofollow" target="_blank">GLZJ</a>
-</p>
+<p>Working Together As A United Singapore</p>
 </td>
 </tr>
 </tbody>
@@ -470,11 +476,10 @@ third_nav_title: Winners
 <p>First</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHONG KAR ANN</p>
+<p>Neo Beng Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5002.mp4" rel="noopener nofollow" target="_blank">One Voice, One Nation</a>
-</p>
+<p>[NO TITLE]</p>
 </td>
 </tr>
 <tr>
@@ -482,11 +487,54 @@ third_nav_title: Winners
 <p>Second</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohamad Azrin Bin Mohd Hanapiah</p>
+<p>Ang Jia Xi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5003.mp4" rel="noopener nofollow" target="_blank">Our Home</a>
-</p>
+<p>[NO TITLE]</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1><strong>Dynamic Open - Group Winners</strong></h1>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Results</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Entry Title</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYS Production</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Together As One</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Laggy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The future of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -494,14 +542,12 @@ third_nav_title: Winners
 <p>Third</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khan Mohamed Mohamed Dhasil</p>
+<p>EcoGuardians</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5005.mp4" rel="noopener nofollow" target="_blank">Our Singaporean Identity - Shared Spaces &amp; Experiences</a>
-</p>
+<p>Seed the Future: A Sustainable Blueprint for Singapore's Next 75 Years</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h1><strong>Dynamic Open - Group Winners</strong></h1>
 <p></p>
