@@ -496,7 +496,6 @@ third_nav_title: Winners
 </tbody>
 </table>
 <h1><strong>Dynamic Open - Group Winners</strong></h1>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
