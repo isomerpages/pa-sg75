@@ -33,6 +33,7 @@ sections:
       button: Find out more
       url: /competition-brief-2025/
       image: /images/Screenshot_2025_06_06_145345.png
+      alt: SG75 Competition 2025
   - infobar:
       title: Nation Building
       subtitle: 200 Years of
