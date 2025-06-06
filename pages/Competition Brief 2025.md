@@ -7,7 +7,7 @@ description: ""
 <h2><strong>This Year's Theme (2025)</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_06_151406.png">
 </div>
 <h3><strong>Building the Future of Singapore – Inspiring through the Built Environment</strong></h3>
 <p></p>
