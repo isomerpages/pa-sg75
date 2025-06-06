@@ -27,7 +27,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6223 0748
-      - email: ""
+      - email: PA_TIONGBAHRUCC@pa.gov.sg
       - other: ""
     title: General Enquiries & Feedback
 feedback: ""
