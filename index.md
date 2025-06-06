@@ -29,7 +29,7 @@ sections:
       title: Building the Future of Singapore
       subtitle: 2025 competition theme
       id: infopic
-      description: Submit your entries now!
+      description: Submit your entries now via https://go.gov.sg/sg75comp2025
       button: Find out more
       url: /competition-brief-2025/
       image: /images/Screenshot_2025_06_06_145345.png
