@@ -152,10 +152,10 @@ third_nav_title: Winners
 <p>First</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Evelyn Chai Yi Xuan</p>
+<p>Lin Xinyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Evelyn.pdf" rel="noopener nofollow" target="_blank">One Singapore with many faces and many races</a>
+<p><a href="/files/2024 Winners/Pri_1st___Lin_Xinyu.pdf" rel="noopener nofollow" target="_blank">Waves of Today, Dreams of Tomorrow</a>
 </p>
 </td>
 </tr>
@@ -164,10 +164,10 @@ third_nav_title: Winners
 <p>Second</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Qiao Manni</p>
+<p>Evelyn Chai Yi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Qiao_Manni.pdf" rel="noopener nofollow" target="_blank">Our home, Our land, Our family</a>
+<p><a href="/files/2024 Winners/Pri_2nd___Evelyn_Chai_Yi_Xuan.pdf" rel="noopener nofollow" target="_blank">Our Future Singapore: The Global Leader of Smart Nation</a>
 </p>
 </td>
 </tr>
@@ -179,7 +179,7 @@ third_nav_title: Winners
 <p>Jasmine Zhang Mingbo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Jasmine_Zhang_Mingbo.pdf" rel="noopener nofollow" target="_blank">One People One Nation One Singapore</a>
+<p><a href="/files/2024 Winners/Pri_3rd___JASMINE_ZHANG_MINGBO.pdf" rel="noopener nofollow" target="_blank">A Peek Into Future Singapore</a>
 </p>
 </td>
 </tr>
