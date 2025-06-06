@@ -206,13 +206,13 @@ third_nav_title: Winners
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First</p>
+<p>Merit Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SQPS UNITE</p>
+<p>The Two BFF'S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/SQPS_UNITE.pdf" rel="noopener nofollow" target="_blank">UNITE STRONG SINGAPORE</a>
+<p><a href="/files/2024 Winners/Grp_Pri_merit___The_Two_BFF_S.pdf" rel="noopener nofollow" target="_blank">Sailing into Singapore's Sustainable Future</a>
 </p>
 </td>
 </tr>
