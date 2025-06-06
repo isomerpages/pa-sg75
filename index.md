@@ -21,9 +21,6 @@ sections:
         - title: This year's theme
           description: 2025 Competition Brief
           url: /competition-brief-2025/
-        - title: Showcase
-          description: 2023 Winners
-          url: /2023-winners/
         - title: Contact Us
           description: Getting in touch
           url: /contact-us/
