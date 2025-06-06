@@ -4,6 +4,11 @@ permalink: /competition-overview/
 variant: tiptap
 description: ""
 ---
+<h2><strong>Some Winning Entries (Static)</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_06_160738.png">
+</div>
 <h2><strong>Number of Entries Over the Years</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
