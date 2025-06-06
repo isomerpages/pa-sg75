@@ -5,6 +5,39 @@ variant: tiptap
 description: ""
 third_nav_title: Winners
 ---
+<h1><strong>Static 1 Primary - Individual Winners</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Results</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Entry Title</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Merit Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurin Alisha Binte Zainallabideen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 Winners/Pri_Merit___Nurin_Alisha_Binte_Zainallabideen.pdf" rel="noopener nofollow" target="_blank">SG75</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h1><strong>Static 1 Open - Individual Winners</strong></h1>
 <table style="minWidth: 75px">
 <colgroup>
@@ -29,10 +62,22 @@ third_nav_title: Winners
 <p>First</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Rui Feng Ian</p>
+<p>Zachary Teh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Koh_Rui_Feng_Ian.pdf" rel="noopener nofollow" target="_blank">Increasing Our GST</a>
+<p><a href="/files/2024 Winners/Open_1st___Zachary_Teh.pdf" rel="noopener nofollow" target="_blank">Uncertainty Like The Sea</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vickie Yong Qing Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024 Winners/Open_1st___Vickie_Yong_Qing_Ling.pdf" rel="noopener nofollow" target="_blank">A Glimpse into Singapore 2040: Innovation, Sustainability, and Progress</a>
 </p>
 </td>
 </tr>
@@ -41,34 +86,43 @@ third_nav_title: Winners
 <p>Second</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arissa Binte Kamaruzaman</p>
+<p>Thee Yan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Arissa_Binte_Kamaruzaman.pdf" rel="noopener nofollow" target="_blank">LOVE EACH OTHER FOR; NOT IN SPITE</a>
+<p><a href="/files/2024 Winners/Open_2nd___Thee_Yan_Ting.pdf" rel="noopener nofollow" target="_blank">Sixteen Years, Infinite Possibilities</a>
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<h1><strong>Static 1 Open - Group Winners</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Third</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Foong Ke Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Foong_Ke_Wei.pdf" rel="noopener nofollow" target="_blank">Hard Truths and Harder Questions</a>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Results</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Entry Title</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Token of Participation</p>
+<p>First</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Low Miang Han Jack</p>
+<p>Aljuniedians</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Low_Miang_Han_Jack.pdf" rel="noopener nofollow" target="_blank">My View on Improving Singapore</a>
+<p><a href="/files/2024 Winners/Grp_Open_1st___Aljuniedians.pdf" rel="noopener nofollow" target="_blank">How to Train Your LIONs</a>
 </p>
 </td>
 </tr>
