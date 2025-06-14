@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Winners/2024 Winners.md
       - Winners/2023 Winners.md
       - Winners/2022 Winners.md
       - Winners/2021 Winners.md
@@ -17,6 +18,7 @@ collections:
       - Related Events/2019 Events.md
       - Related Events/2018 Events.md
       - Related Events/.keep
+      - Competition Themes/2024 Edition.md
       - Competition Themes/.keep
       - Competition Themes/2023 Edition.md
       - Competition Themes/2022 Edition.md

@@ -11,9 +11,7 @@ notification: Government officials will NEVER ask you to transfer money or
 sections:
   - hero:
       title: SG75 Singapore Our Home
-      background: /images/group_pic_2.jpg
-      button: Learn more about this year's theme.
-      url: /competition-brief-2025/
+      background: /images/Screenshot_2025_06_06_151916.png
       key_highlights:
         - title: Unfamiliar with SG75?
           description: Competition over the years
@@ -21,13 +19,19 @@ sections:
         - title: This year's theme
           description: 2025 Competition Brief
           url: /competition-brief-2025/
-        - title: Showcase
-          description: 2023 Winners
-          url: /2023-winners/
         - title: Contact Us
           description: Getting in touch
           url: /contact-us/
       variant: center
+  - infopic:
+      title: Building the Future of Singapore
+      subtitle: 2025 competition theme
+      id: infopic
+      description: Submit your entries <a href="https://go.gov.sg/sg75comp2025/">here</a>.
+      button: Find out more
+      url: /competition-brief-2025/
+      image: /images/Screenshot_2025_06_06_145345.png
+      alt: SG75 Competition 2025
   - infobar:
       title: Nation Building
       subtitle: 200 Years of

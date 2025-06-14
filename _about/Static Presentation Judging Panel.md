@@ -9,25 +9,8 @@ description: ""
 <br><em>Chief Judge, Static Competition Judging Panel</em>
 </p>
 <p>Shee Koeng is a Director with home-grown Architectural firm DP Architects
-Pte Ltd. He is a Registered Architect with the Singapore Board of Architects.</p>
-<p><strong>Dr William Wan</strong>
-<br><em>Writer/ General Secretary, Singapore Kindness Movement<br>Chairman, Prison Fellowship Singapore<br>Chairman, Ethics Committee, Farrer Park Hospital<br></em>
+Pte Ltd. He is a Registered Architect with the Singapore Board of Architects.<em><br></em>
 </p>
-<p>William also serves on the Council and Board of several non-profit organisations
-including the Boys' Scout Association of Singapore and the Public Hygiene
-Council. He is on the Advisory Committee of several education institutions,
-and is on the Selection Panel of Singapore University of Social Sciences’
-Law School.
-<br>
-<br>He is author of several books and numerous articles, and speaker at conferences
-and other public forms.
-<br>- 1985 Ottawa Board of Police Commissioners Award
-<br>- 1986 Ontario Solicitor’s General Award
-<br>- 2011 Active Ager Award
-<br>- 2015 Abdeali Tayebali Lifetime Achievement Award for being a Community
-Leader Extraordinaire.
-<br>- 2017 President’s Volunteerism and Philanthropy Award in the individual
-senior category</p>
 <p><strong>Mr Seah Chee Huang</strong>
 <br><em>Director, DP Architects Pte Ltd<br>Adjunct Design Tutor, NUS Department of Architecture</em>
 </p>
@@ -40,9 +23,46 @@ social nodes; <em>Goodlife! Makan</em>, a community kitchen that engages
 and empowers stay-alone elderlies through food, and the 2016 National Day
 Parade set design of Sky City. He also currently sits on design advisory
 panels and committees for various agencies and institutions.</p>
-<p><strong>Ms Tia Boon Sim</strong>
-<br><em>Inaugural Artist-in-Residence, Centre for TransCultural Studies, Temasek Polytechnic<br>Founder, Urban Sketchers Singapore<br>Founder, Thow Kwang Artists Studio<br></em>
+<p><strong>Ms Aida binte Khalid</strong>
+<br><em>Senior Lecturer, Lead in Subjects and Design Projects<br>Senior Consultant, BeyonDesign Centre<br>Senior Manager, Temasek Polytechnic, School of Design</em>
 </p>
+<p><strong>Ms Sim Ee Waun</strong>
+<br><em>Food and Travel Writer<br>Freelance Editor for 28 years</em>
+</p>
+<p>Sim Ee Waun is the author of several books:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore's Hidden Heritage</p>
+</li>
+<li>
+<p>We Shall Remember: The Story of Singapore at War</p>
+</li>
+<li>
+<p>The Little Singapore Book</p>
+</li>
+<li>
+<p>The House on Silat Road</p>
+</li>
+<li>
+<p>The House on Palmer Road</p>
+</li>
+</ul>
+<p><strong>Mr Tham Cheng-E</strong>
+<br><em>Architect</em>
+</p>
+<p>Tham Cheng-E is an architect who also writes about the special needs community
+for the online magazine Special Seeds, and maintains a family blog on parenting
+and Down syndrome. His first novel, Surrogate Protocol, was shortlisted
+for the 2016 Epigram Books Fiction Prize.<em><br></em>He is the author
+of several other books:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Band Eight</p>
+</li>
+<li>
+<p>Claiming Susan Chin</p>
+</li>
+</ul>
 <p>Tia is an architect turned art and design educator. She was tutored by
 local art pioneer, the late Mr Liu Kang. Her paintings were made into stamps
 and first day covers to commemorate Singapore National Day 2011. A speaker
@@ -59,22 +79,7 @@ in the gallery's frequent art shows through out the years. She is also
 a member of the Singapore Art Society and frequently exhibits at their
 annual art competitions and art shows. She has won the Distinction Award
 for her Abstract painting in 2009.</p>
-<p><strong>Ms Leanne Sim</strong>
-<br><em>Award-Winning Senior Marketing and Communications Professional and Recipient of Tim Winton Award for Young Writers and West Australian Young Writers Awards</em>
-</p>
-<p>Leanne Sim is an award-winning senior marketing and communications professional
-in the banking and finance industry; by night, she enjoys creative writing
-by her bedside light.
-<br>
-<br>Her first book she co-wrote, 'Sim Kee Boon: Businessman Bureaucrat', a
-biography written about her grandfather, debuted number one on the Singapore
-Sunday Times' non-fiction bestsellers list stayed on the top 10 list for
-more than five weeks. A lifelong writer, when she was in high school, her
-passion for storytelling led her to win top prizes at the Tim Winton Award
-for Young Writers and West Australian Young Writers Awards.
-<br>
-<br>It also inspired her to become a Singapore Tourism Board tourist guide,
-giving her the opportunity to share tales of Singapore’s early years.</p>
+<p></p>
 <p><strong>Mr Kenny Chua</strong>
 <br><em>Program Director, DSO National Laboratories</em>
 </p>

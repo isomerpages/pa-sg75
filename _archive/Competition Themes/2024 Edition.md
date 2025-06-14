@@ -1,8 +1,9 @@
 ---
-title: Competition Brief 2024
-permalink: /competition-brief/
+title: 2024 Edition
+permalink: /2023-edition/
 variant: tiptap
 description: ""
+third_nav_title: Competition Themes
 ---
 <h2><strong>This Year's Theme (2024)</strong></h2>
 <div class="isomer-image-wrapper">

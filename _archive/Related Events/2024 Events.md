@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Related Events
 ---
+<h2><strong>SG75 Launch Event 2024</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_06_181928.png">
+</div>
 <h2><strong>SG75 Booster Event 2024</strong></h2>
 <h4><strong>YOUth are Invited!</strong></h4>
 <h4><strong>Theme: Sailing into our Future - 2024 Singapore Edition</strong></h4>
@@ -19,5 +24,5 @@ navigate
 <br>our ways amidst the geopolitical tensions happening around us and in a
 world of uncertainties
 <br>
-<br>Lunch will be provided</p>
+</p>
 <p>&nbsp;</p>
