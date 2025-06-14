@@ -35,7 +35,13 @@ description: ""
 </p>
 <p><strong>Mr Lee Shee Koeng</strong>
 <br><em>Director<br>DP Architects Pte Ltd</em>
-<br><em>SG75 Working Committee Judge Lead</em>
+<br><em>SG75 Working Committee Static Judge Lead</em>
+</p>
+<p><strong>Mr Kannan Vijakumar</strong>
+<br><em>Lecturer</em>
+<br><em>Temasek Polytechnic</em>
+<br><em>Filmmaker</em>
+<br><em>SG75 Working Committee Dynamic Judge Lead</em>
 </p>
 <p><strong>Dr Tan Tin Wee</strong><em><br>Associate Professor,&nbsp;National University of Singapore (NUS)</em>
 <br><em>SG75 Working Committee Member</em>
@@ -58,6 +64,11 @@ description: ""
 </p>
 <p><strong>Ms Serene Zhang</strong>
 <br><em>Student </em>
+<br><em>SG75 Working Committee Member</em>
+</p>
+<p><strong>Mr Dan Jives</strong>
+<br><em>Executive</em>
+<br><em>Tarkiz</em>
 <br><em>SG75 Working Committee Member</em>
 </p>
 <p></p>
