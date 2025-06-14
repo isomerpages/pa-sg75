@@ -66,12 +66,14 @@ description: ""
 <br><em>Student </em>
 <br><em>SG75 Working Committee Member</em>
 </p>
-<p><strong>Mr Dan Jives</strong>
+<p><strong>Mr Mohamad Riduan</strong>
 <br><em>Executive</em>
 <br><em>Tarkiz</em>
 <br><em>SG75 Working Committee Member</em>
 </p>
-<p></p>
-<p><strong>Ms Grace TongYu<br></strong><em>Student</em>
+<p><strong>Mr Samuel Bey</strong>
+<br><em>Senior Manager</em>
+<br><em>The Boys' Brigade Singapore</em>
+<br><em>SG75 Working Committee Member</em>
 </p>
 <p></p>
