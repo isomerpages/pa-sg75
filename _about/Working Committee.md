@@ -15,7 +15,7 @@ description: ""
 </p>
 <p></p>
 <p><strong>Mr Lee Shee Koeng</strong>
-<br><em>Chief Operating Officer,&nbsp;<br>DP Architects Pte Ltd</em>
+<br><em>Director<br>DP Architects Pte Ltd</em>
 </p>
 <p></p>
 <p><strong>Ms Tan See Leng</strong>
