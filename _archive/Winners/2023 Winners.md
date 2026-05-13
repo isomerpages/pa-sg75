@@ -305,8 +305,7 @@ third_nav_title: Winners
 <p>Su Yuan Angel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5001.mp4" rel="noopener nofollow" target="_blank">Please don't judge a book by its cover</a>
-</p>
+<p>Please don't judge a book by its cover</p>
 </td>
 </tr>
 <tr>
@@ -317,8 +316,7 @@ third_nav_title: Winners
 <p>Freyja Aditi Nagarajan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5004.mp4" rel="noopener nofollow" target="_blank">Diverse Family Trees - One Identity</a>
-</p>
+<p>Diverse Family Trees - One Identity</p>
 </td>
 </tr>
 </tbody>
@@ -407,8 +405,7 @@ third_nav_title: Winners
 <p>CHONG KAR ANN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5002.mp4" rel="noopener nofollow" target="_blank">One Voice, One Nation</a>
-</p>
+<p>One Voice, One Nation</p>
 </td>
 </tr>
 <tr>
@@ -419,8 +416,7 @@ third_nav_title: Winners
 <p>Mohamad Azrin Bin Mohd Hanapiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5003.mp4" rel="noopener nofollow" target="_blank">Our Home</a>
-</p>
+<p>Our Home</p>
 </td>
 </tr>
 <tr>
@@ -431,8 +427,7 @@ third_nav_title: Winners
 <p>Khan Mohamed Mohamed Dhasil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sg75.sg/entries/2023/dynamic/23D-IND-5005.mp4" rel="noopener nofollow" target="_blank">Our Singaporean Identity - Shared Spaces &amp; Experiences</a>
-</p>
+<p>Our Singaporean Identity - Shared Spaces &amp; Experiences</p>
 </td>
 </tr>
 </tbody>
